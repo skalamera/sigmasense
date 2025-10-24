@@ -1,0 +1,61 @@
+# DateDiff
+
+# DateDiff
+
+The **DateDiff** function calculates the time difference between two dates.
+
+## Syntax
+
+`DateDiff(unit, start, end)`
+
+The function has the following arguments:
+
+unit
+:   Required
+:   The unit to measure the difference.
+:   Can be one of “year”, "quarter", “month”, “week”, “day”, “hour”, “minute”, “second”, “millisecond”.
+
+start
+:   Required
+:   The starting date
+:   Note that the value must be a date. If the column is not in the appropriate format, use the [Date](/docs/date) function on the argument.
+
+end
+:   Required
+:   The ending date
+:   Note that the value must be a date. If the column is not in the appropriate format, use the [Date](/docs/date) function on the argument.
+
+Sigma rounds the result to the nearest integer. If the ending date precedes the starting date, the output is a negative integer.
+
+## Examples
+
+```
+DateDiff(“day”, [Invoice Date], Today())
+```
+
+Returns the number of days between the date in the *Invoice Date* column and the current UTC date.
+
+```
+DateDiff("year", [Invoice Date], Date("2018-01-01")) = 8
+```
+
+Returns the number of years between the date in the *Invoice Date* column and January 1, 2018.
+
+```
+DateDiff("hour", [Ticket Date], Now()) = 103
+```
+
+Returns the number of hours between the date and time in the *Ticket Date* column and the current UTC date and time.
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Date](/docs/date)
+* [Quickstart: Common date functions and use cases](https://quickstarts.sigmacomputing.com/guide/common_date_functions_and_use_cases)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Examples](#examples)

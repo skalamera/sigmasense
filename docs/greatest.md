@@ -1,0 +1,46 @@
+# Greatest
+
+# Greatest
+
+Returns the largest value amongst the inputs.
+
+## Usage
+
+```
+Greatest(input1, [input2], ...)
+```
+
+**input 1** (required) The data or column of data to be evaluated. Input can be numbers, dates, or strings.
+
+**input 2+** (optional) Additional inputs to compare. All additional inputs must match the type of the first input.
+
+> 📘
+>
+> ### To compare a column of dates against a specific date, wrap the input in the Date() function.
+
+## Example
+
+```
+Greatest([Profit 2020], [Profit 2021], [Profit 2022])
+```
+
+* Returns the profit from the year with the greatest profit
+
+```
+Greatest([Invoice Date], Date("2020-01-01"))
+```
+
+* Returns the more recent date.
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Max](/docs/max)
+* [Least](/docs/least)
+
+* [Table of Contents](#)
+* + [Usage](#usage)
+  + [Example](#example)

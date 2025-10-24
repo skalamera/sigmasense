@@ -1,0 +1,37 @@
+# Power
+
+# Power
+
+Raises a number to the specified power.
+
+## Usage
+
+`Power(number, power)`
+
+**number** (required) The number or column of numbers to raise to the specified power.
+
+**power** (required) The power to raise the number to.
+
+## Examples
+
+`Power(2, 0)`
+
+* ‍Returns 1
+
+`Power(2, 3)`
+
+* Returns 8
+
+`Power(2, -1)`
+
+* Returns 0.5
+
+Updated 3 days ago
+
+---
+
+[Pi](/docs/pi)[Radians](/docs/radians)
+
+* [Table of Contents](#)
+* + [Usage](#usage)
+  + [Examples](#examples)

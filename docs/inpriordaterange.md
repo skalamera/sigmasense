@@ -1,0 +1,55 @@
+# InPriorDateRange
+
+# InPriorDateRange
+
+The **InPriorDateRange** function determines if an inputted date is within a specified date range in a previous time period, returning True or False.
+
+## Syntax
+
+```
+InPriorDateRange([date column], [range period], [prior period], [offset], [today])
+```
+
+Function arguments:
+
+* **date column** (required) - The date to be evaluated.
+* **range period** (required) - The period for the date range
+  + options: `year`, `quarter` , `month`, `week`, `day`, `hour`, `minute` , and `second`
+* **prior period** (required) - The period used to offset the range period.
+  + options: `year`, `quarter` , `month`, `week`, `day`, `hour`, `minute` , and `second`
+* **offset** (optional) - The number of prior periods to offset by.
+  + If not set, defaults to `1`
+* **today** (optional) - The value to use for Today when calculating with respect to the current date.
+  + If not set, defaults to `Today()`
+
+## Example
+
+Returns True for all dates in the current hour of the day in the previous day:
+
+```
+InPriorDateRange([Date], "hour", "day")
+```
+
+Returns True for all dates in this month last year:
+
+```
+InPriorDateRange([Date], "month", "year")
+```
+
+Returns True for all dates in this month two years ago:
+
+```
+InPriorDateRange([Date], "month", "year", 2)
+```
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [InDateRange](/docs/indaterange)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

@@ -1,0 +1,48 @@
+# Workbook lifecycle: explore, draft, and publish
+
+# Workbook lifecycle: explore, draft, and publish
+
+Workbooks support both *ad hoc* data exploration and complex long-term reporting. The collaborative interface and visual approach to data interaction makes live data and real-time collaboration accessible to everyone in your organization. This article introduces the basics of a workbook's lifecycle, from data exploration to publishing and version history.
+
+## Ad hoc data exploration
+
+New, unsaved workbooks are also referred to as explorations. Explorations are ideal for ad hoc analysis, when you want to explore your data and move on without saving your work for future use.
+
+To save an exploration as a published workbook, click **Save as** in the exploration's header.
+
+See [Ad hoc data exploration](/docs/ad-hoc-data-explorations).
+
+## Workbook modes: Edit, Explore, and View
+
+Published workbooks can be accessed in three different modes: Edit, Explore, and View. The modes you have access to on any given workbook depend on the permissions granted to you for that individual workbook. See [Workbook modes overview](/docs/workbook-modes-overview) .
+
+## Drafts and publishing
+
+Edits made to a workbook are automatically saved as a shared, live draft. Multiple editors can collaborate on a single draft in real time. All active editors see a list of other users currently in Edit mode and the element they each have selected.
+
+Clicking **Publish** publishes all drafted changes to the workbook. This includes changes drafted by all editors on the live draft.
+
+See [Edit, draft, and publish a workbook](/docs/edit-draft-and-publish-a-workbook).
+
+## Version history
+
+Sigma stores a history of published workbook versions and the changes associated with them, called the version history. Access version history from the version menu located in the workbook header.
+
+See [Workbook versions and version history](/docs/workbook-versions-and-version-history)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Workbooks overview](/docs/workbooks-overview)
+* [Create a workbook](/docs/create-a-workbook)
+* [Workbook modes overview: View, Explore, Edit](/docs/workbook-modes-overview-view-explore-edit)
+* [Workbook versions and version history](/docs/workbook-versions-and-version-history)
+
+* [Table of Contents](#)
+* + [Ad hoc data exploration](#ad-hoc-data-exploration)
+  + [Workbook modes: Edit, Explore, and View](#workbook-modes-edit-explore-and-view)
+  + [Drafts and publishing](#drafts-and-publishing)
+  + [Version history](#version-history)

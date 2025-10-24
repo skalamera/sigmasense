@@ -1,0 +1,62 @@
+# Concat
+
+# Concat
+
+The **Concat** function combines text strings.
+
+## Usage
+
+```
+Concat(string_1, string_2, ...)
+```
+
+Function arguments:
+
+|  |  |
+| --- | --- |
+| **string\_1** | (required) First string to combine in the sequence. |
+| **string\_2+** | (optional) Additional strings to combine in the sequence. |
+
+* **Concat** doesn't automatically add spaces between strings. To add a space in the output, include `" "` as its own argument.
+* To include a number or date value as a string, place quotation marks around the value (`"2024-01-01"`).
+* To treat values in a number column as text strings, enclose the column name in the **[Text](/docs/text)** function (`Text([Column])`).
+
+## Example
+
+```
+Concat("queen", "bee")
+```
+
+Returns `queenbee`.
+
+```
+Concat("queen", " ", "bee")
+```
+
+Returns `queen bee`.
+
+```
+Concat([Name], Text([ID No]))
+```
+
+Combines a column of names with their corresponding ID numbers.
+
+```
+Concat([Store Region], "\n", [Store State])
+```
+
+When the newline character (`\n`) is added as an argument, **Concat** generates the subsequent argument on a new line. To view the output on separate lines, ensure **Wrap text** formatting is applied to the column.
+
+![](https://files.readme.io/1e6a36f-image.png)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [ListAgg](/docs/listagg)
+
+* [Table of Contents](#)
+* + [Usage](#usage)
+  + [Example](#example)

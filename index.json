@@ -1,0 +1,3652 @@
+{
+  "https://help.sigmacomputing.com/docs/about-sigma": {
+    "title": "About Sigma",
+    "markdown_path": "markdown\\docs\\about-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-slack": {
+    "title": "Export to Slack",
+    "markdown_path": "markdown\\docs\\export-to-slack.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/navigate-data-models": {
+    "title": "Navigate data models",
+    "markdown_path": "markdown\\docs\\navigate-data-models.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/start-using-sigma": {
+    "title": "Start using Sigma",
+    "markdown_path": "markdown\\docs\\start-using-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/escalate-critical-issues": {
+    "title": "Escalate critical issues",
+    "markdown_path": "markdown\\docs\\escalate-critical-issues.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/acos": {
+    "title": "Acos",
+    "markdown_path": "markdown\\docs\\acos.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-a-shareable-link-for-an-embed": {
+    "title": "Configure a shareable link for an embed",
+    "markdown_path": "markdown\\docs\\configure-a-shareable-link-for-an-embed.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-workbook-localization": {
+    "title": "Manage workbook localization",
+    "markdown_path": "markdown\\docs\\manage-workbook-localization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-funnel-chart": {
+    "title": "Build a funnel chart",
+    "markdown_path": "markdown\\docs\\build-a-funnel-chart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-a-data-element": {
+    "title": "Create a data element",
+    "markdown_path": "markdown\\docs\\create-a-data-element.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/startswith": {
+    "title": "StartsWith",
+    "markdown_path": "markdown\\docs\\startswith.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lookup-join": {
+    "title": "Lookup join",
+    "markdown_path": "markdown\\docs\\lookup-join.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arrayaggdistinct": {
+    "title": "ArrayAggDistinct",
+    "markdown_path": "markdown\\docs\\arrayaggdistinct.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumedist": {
+    "title": "CumeDist",
+    "markdown_path": "markdown\\docs\\cumedist.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-team-admins": {
+    "title": "Manage team admins",
+    "markdown_path": "markdown\\docs\\manage-team-admins.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-an-export-warehouse": {
+    "title": "Configure an export warehouse",
+    "markdown_path": "markdown\\docs\\configure-an-export-warehouse.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/urlpart": {
+    "title": "UrlPart",
+    "markdown_path": "markdown\\docs\\urlpart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dynamically-filter-and-modify-data-in-sigma": {
+    "title": "Dynamically filter and modify data in Sigma",
+    "markdown_path": "markdown\\docs\\dynamically-filter-and-modify-data-in-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-trigger-embed-iframe-events": {
+    "title": "Create actions that generate embed iframe events",
+    "markdown_path": "markdown\\docs\\create-actions-that-trigger-embed-iframe-events.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-data-lineage": {
+    "title": "View workbook and data model data lineage",
+    "markdown_path": "markdown\\docs\\workbook-data-lineage.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/radians": {
+    "title": "Radians",
+    "markdown_path": "markdown\\docs\\radians.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-a-modal-to-a-workbook": {
+    "title": "Use modals to create focused content views",
+    "markdown_path": "markdown\\docs\\add-a-modal-to-a-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-custom-sort": {
+    "title": "Customize the sort order of data elements",
+    "markdown_path": "markdown\\docs\\configure-custom-sort.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-a-public-embed": {
+    "title": "Create and manage a public embed",
+    "markdown_path": "markdown\\docs\\create-and-manage-a-public-embed.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/best-practices-for-improved-performance": {
+    "title": "Best practices for improved performance",
+    "markdown_path": "markdown\\docs\\best-practices-for-improved-performance.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-users-and-teams-with-scim": {
+    "title": "Manage users and teams with SCIM",
+    "markdown_path": "markdown\\docs\\manage-users-and-teams-with-scim.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/access-and-explore-audit-logs": {
+    "title": "Access and explore audit logs",
+    "markdown_path": "markdown\\docs\\access-and-explore-audit-logs.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sumproduct": {
+    "title": "SumProduct",
+    "markdown_path": "markdown\\docs\\sumproduct.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-totals": {
+    "title": "Dataset Totals",
+    "markdown_path": "markdown\\docs\\dataset-totals.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-new-input-tables": {
+    "title": "Create new input tables",
+    "markdown_path": "markdown\\docs\\create-new-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumulativevariance": {
+    "title": "CumulativeVariance",
+    "markdown_path": "markdown\\docs\\cumulativevariance.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/stddev": {
+    "title": "StdDev",
+    "markdown_path": "markdown\\docs\\stddev.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/max": {
+    "title": "Max",
+    "markdown_path": "markdown\\docs\\max.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/type-functions": {
+    "title": "Type functions",
+    "markdown_path": "markdown\\docs\\type-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/floor": {
+    "title": "Floor",
+    "markdown_path": "markdown\\docs\\floor.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/variance": {
+    "title": "Variance",
+    "markdown_path": "markdown\\docs\\variance.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-lineage": {
+    "title": "Dataset Lineage",
+    "markdown_path": "markdown\\docs\\dataset-lineage.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/reference-workbook-control-values-in-sql-statements": {
+    "title": "Reference workbook control values in SQL statements",
+    "markdown_path": "markdown\\docs\\reference-workbook-control-values-in-sql-statements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/transpose-a-table": {
+    "title": "Transpose a table",
+    "markdown_path": "markdown\\docs\\transpose-a-table.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/explain-visualizations-with-ai": {
+    "title": "Explain charts with AI",
+    "markdown_path": "markdown\\docs\\explain-visualizations-with-ai.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ask-sigma-discovery": {
+    "title": "Explore data collections with Ask Sigma Discovery",
+    "markdown_path": "markdown\\docs\\ask-sigma-discovery.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/subtotal": {
+    "title": "Subtotal",
+    "markdown_path": "markdown\\docs\\subtotal.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-the-navigation-element-to-guide-user-exploration": {
+    "title": "Use the navigation element to guide user exploration (Beta)",
+    "markdown_path": "markdown\\docs\\use-the-navigation-element-to-guide-user-exploration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumulativestddev": {
+    "title": "CumulativeStdDev",
+    "markdown_path": "markdown\\docs\\cumulativestddev.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-starburst": {
+    "title": "Connect to Starburst",
+    "markdown_path": "markdown\\docs\\connect-to-starburst.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/top-n-filter": {
+    "title": "Top N filter",
+    "markdown_path": "markdown\\docs\\top-n-filter.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-warehouse-views": {
+    "title": "Create and manage dataset warehouse views",
+    "markdown_path": "markdown\\docs\\dataset-warehouse-views.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sign": {
+    "title": "Sign",
+    "markdown_path": "markdown\\docs\\sign.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/embed-sdk-for-react": {
+    "title": "Embed SDK for React",
+    "markdown_path": "markdown\\docs\\embed-sdk-for-react.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/send-or-schedule-workbook-exports": {
+    "title": "Send or schedule workbook exports",
+    "markdown_path": "markdown\\docs\\send-or-schedule-workbook-exports.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ilike": {
+    "title": "ILike",
+    "markdown_path": "markdown\\docs\\ilike.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ad-hoc-data-explorations": {
+    "title": "Ad hoc data explorations",
+    "markdown_path": "markdown\\docs\\ad-hoc-data-explorations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/region-warehouse-and-feature-support": {
+    "title": "Supported regions, data platforms, and features",
+    "markdown_path": "markdown\\docs\\region-warehouse-and-feature-support.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sigma-fundamentals-for-builders": {
+    "title": "Sigma Fundamentals for Builders",
+    "markdown_path": "markdown\\docs\\sigma-fundamentals-for-builders.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arraydistinct": {
+    "title": "ArrayDistinct",
+    "markdown_path": "markdown\\docs\\arraydistinct.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/custom-fonts": {
+    "title": "Upload custom fonts",
+    "markdown_path": "markdown\\docs\\custom-fonts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-gauge-chart": {
+    "title": "Build a gauge chart",
+    "markdown_path": "markdown\\docs\\build-a-gauge-chart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-line-chart": {
+    "title": "Build a line chart",
+    "markdown_path": "markdown\\docs\\build-a-line-chart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/iseven": {
+    "title": "IsEven",
+    "markdown_path": "markdown\\docs\\iseven.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-mysql": {
+    "title": "Connect to MySQL",
+    "markdown_path": "markdown\\docs\\connect-to-mysql.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/perimeter": {
+    "title": "Perimeter",
+    "markdown_path": "markdown\\docs\\perimeter.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/movingstddev": {
+    "title": "MovingStddev",
+    "markdown_path": "markdown\\docs\\movingstddev.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-sparklines-in-a-table": {
+    "title": "Create sparklines in a table (Beta)",
+    "markdown_path": "markdown\\docs\\create-sparklines-in-a-table.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ceiling": {
+    "title": "Ceiling",
+    "markdown_path": "markdown\\docs\\ceiling.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ltrim": {
+    "title": "LTrim",
+    "markdown_path": "markdown\\docs\\ltrim.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-control-modals-and-tabbed-containers": {
+    "title": "Create actions that control modals and tabbed containers",
+    "markdown_path": "markdown\\docs\\create-actions-that-control-modals-and-tabbed-containers.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/format-a-slack-message": {
+    "title": "Format a Slack message",
+    "markdown_path": "markdown\\docs\\format-a-slack-message.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/geography-functions": {
+    "title": "Geography functions",
+    "markdown_path": "markdown\\docs\\geography-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-a-sigma-oauth-application": {
+    "title": "Configure a Sigma OAuth application",
+    "markdown_path": "markdown\\docs\\configure-a-sigma-oauth-application.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-microsoft-integration": {
+    "title": "Manage Microsoft integration",
+    "markdown_path": "markdown\\docs\\manage-microsoft-integration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lesson-seven-style": {
+    "title": "Lesson seven: Style",
+    "markdown_path": "markdown\\docs\\lesson-seven-style.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-dataset-columns": {
+    "title": "Configure Dataset Columns",
+    "markdown_path": "markdown\\docs\\configure-dataset-columns.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/upper": {
+    "title": "Upper",
+    "markdown_path": "markdown\\docs\\upper.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-redshift": {
+    "title": "Connect to Redshift",
+    "markdown_path": "markdown\\docs\\connect-to-redshift.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/quarter": {
+    "title": "Quarter",
+    "markdown_path": "markdown\\docs\\quarter.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/countdistinct": {
+    "title": "CountDistinct",
+    "markdown_path": "markdown\\docs\\countdistinct.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/concat": {
+    "title": "Concat",
+    "markdown_path": "markdown\\docs\\concat.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/maxif": {
+    "title": "MaxIf",
+    "markdown_path": "markdown\\docs\\maxif.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-modify-or-refresh-elements": {
+    "title": "Create actions that modify or refresh elements",
+    "markdown_path": "markdown\\docs\\create-actions-that-modify-or-refresh-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/coalesce": {
+    "title": "Coalesce",
+    "markdown_path": "markdown\\docs\\coalesce.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/restore-input-table-access-for-a-snowflake-connection-or-user": {
+    "title": "Restore input table access for a Snowflake connection or user",
+    "markdown_path": "markdown\\docs\\restore-input-table-access-for-a-snowflake-connection-or-user.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-settings-overview": {
+    "title": "Workbook settings overview",
+    "markdown_path": "markdown\\docs\\workbook-settings-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/plugin-development-api": {
+    "title": "Plugin development API",
+    "markdown_path": "markdown\\docs\\plugin-development-api.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/enable-audit-logging": {
+    "title": "Enable or disable audit logging",
+    "markdown_path": "markdown\\docs\\enable-audit-logging.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-workbook-page-visibility": {
+    "title": "Manage workbook page visibility",
+    "markdown_path": "markdown\\docs\\manage-workbook-page-visibility.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-a-workbook": {
+    "title": "Create a workbook",
+    "markdown_path": "markdown\\docs\\create-a-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/distanceglobe": {
+    "title": "DistanceGlobe",
+    "markdown_path": "markdown\\docs\\distanceglobe.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/day": {
+    "title": "Day",
+    "markdown_path": "markdown\\docs\\day.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-workbook-themes": {
+    "title": "Create and manage workbook themes",
+    "markdown_path": "markdown\\docs\\create-and-manage-workbook-themes.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-embedded-analytics": {
+    "title": "Intro to embedded analytics",
+    "markdown_path": "markdown\\docs\\intro-to-embedded-analytics.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-welcome-and-invite-emails": {
+    "title": "Customize welcome and invite emails",
+    "markdown_path": "markdown\\docs\\customize-welcome-and-invite-emails.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-manage-control-values": {
+    "title": "Create actions that manage control values",
+    "markdown_path": "markdown\\docs\\create-actions-that-manage-control-values.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/display-chart-reference-marks": {
+    "title": "Display chart reference marks",
+    "markdown_path": "markdown\\docs\\display-chart-reference-marks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/pv": {
+    "title": "PV",
+    "markdown_path": "markdown\\docs\\pv.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-system-generated-columns-to-input-tables": {
+    "title": "Add system-generated columns to input tables",
+    "markdown_path": "markdown\\docs\\add-system-generated-columns-to-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rollup": {
+    "title": "Rollup",
+    "markdown_path": "markdown\\docs\\rollup.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/weekdayname": {
+    "title": "WeekdayName",
+    "markdown_path": "markdown\\docs\\weekdayname.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/if": {
+    "title": "If",
+    "markdown_path": "markdown\\docs\\if.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/get-started-with-custom-plugins": {
+    "title": "Get started with custom plugins",
+    "markdown_path": "markdown\\docs\\get-started-with-custom-plugins.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-webhook": {
+    "title": "Export to webhook",
+    "markdown_path": "markdown\\docs\\export-to-webhook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/movingcorr": {
+    "title": "MovingCorr",
+    "markdown_path": "markdown\\docs\\movingcorr.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/account-type-and-license-overview": {
+    "title": "Account type and license overview",
+    "markdown_path": "markdown\\docs\\account-type-and-license-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/annotate-element-images-as-comments": {
+    "title": "Capture and annotate images in comments",
+    "markdown_path": "markdown\\docs\\annotate-element-images-as-comments.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/asin": {
+    "title": "Asin",
+    "markdown_path": "markdown\\docs\\asin.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/account-time-zone": {
+    "title": "Change the account time zone",
+    "markdown_path": "markdown\\docs\\account-time-zone.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lpad": {
+    "title": "LPad",
+    "markdown_path": "markdown\\docs\\lpad.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/datediff": {
+    "title": "DateDiff",
+    "markdown_path": "markdown\\docs\\datediff.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/left": {
+    "title": "Left",
+    "markdown_path": "markdown\\docs\\left.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/submit-a-support-request": {
+    "title": "Submit a support request",
+    "markdown_path": "markdown\\docs\\submit-a-support-request.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/currentuserfullname": {
+    "title": "CurrentUserFullName",
+    "markdown_path": "markdown\\docs\\currentuserfullname.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/outbound-event-reference": {
+    "title": "Outbound event reference",
+    "markdown_path": "markdown\\docs\\outbound-event-reference.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/materialization": {
+    "title": "About materialization",
+    "markdown_path": "markdown\\docs\\materialization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/minif": {
+    "title": "MinIf",
+    "markdown_path": "markdown\\docs\\minif.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lesson-eight-input-tables-and-combining-data": {
+    "title": "Lesson eight: Input tables and combining data",
+    "markdown_path": "markdown\\docs\\lesson-eight-input-tables-and-combining-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-a-dbt-semantic-layer-integration": {
+    "title": "Configure a dbt Semantic Layer integration",
+    "markdown_path": "markdown\\docs\\configure-a-dbt-semantic-layer-integration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/isnull": {
+    "title": "IsNull",
+    "markdown_path": "markdown\\docs\\isnull.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/define-custom-datetime-formats": {
+    "title": "Define custom datetime formats",
+    "markdown_path": "markdown\\docs\\define-custom-datetime-formats.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-databricks": {
+    "title": "Connect to Databricks",
+    "markdown_path": "markdown\\docs\\connect-to-databricks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/datasets": {
+    "title": "Datasets",
+    "markdown_path": "markdown\\docs\\datasets.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/column-level-security": {
+    "title": "Configure column-level security",
+    "markdown_path": "markdown\\docs\\column-level-security.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/get-started-with-data-modeling": {
+    "title": "Get started with data modeling",
+    "markdown_path": "markdown\\docs\\get-started-with-data-modeling.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/schedule-a-conditional-export-or-alert": {
+    "title": "Schedule a conditional export or alert",
+    "markdown_path": "markdown\\docs\\schedule-a-conditional-export-or-alert.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-element-title": {
+    "title": "Customize element title",
+    "markdown_path": "markdown\\docs\\customize-element-title.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/text": {
+    "title": "Text",
+    "markdown_path": "markdown\\docs\\text.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-comments": {
+    "title": "Use comments in workbooks",
+    "markdown_path": "markdown\\docs\\workbook-comments.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/avg": {
+    "title": "Avg",
+    "markdown_path": "markdown\\docs\\avg.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-bigquery": {
+    "title": "Connect to BigQuery",
+    "markdown_path": "markdown\\docs\\connect-to-bigquery.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/download-workbook-data": {
+    "title": "Download workbook data",
+    "markdown_path": "markdown\\docs\\download-workbook-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arrayintersection": {
+    "title": "ArrayIntersection",
+    "markdown_path": "markdown\\docs\\arrayintersection.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arraycontains": {
+    "title": "ArrayContains",
+    "markdown_path": "markdown\\docs\\arraycontains.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-data-sources": {
+    "title": "Connect to data sources",
+    "markdown_path": "markdown\\docs\\connect-to-data-sources.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/join-data-in-datasets": {
+    "title": "Join data in datasets",
+    "markdown_path": "markdown\\docs\\join-data-in-datasets.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/atan2": {
+    "title": "Atan2",
+    "markdown_path": "markdown\\docs\\atan2.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-snowflake": {
+    "title": "Connect to Snowflake",
+    "markdown_path": "markdown\\docs\\connect-to-snowflake.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rank": {
+    "title": "Rank",
+    "markdown_path": "markdown\\docs\\rank.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/inbound-and-outbound-events-in-embeds": {
+    "title": "Implement inbound and outbound events in embeds",
+    "markdown_path": "markdown\\docs\\inbound-and-outbound-events-in-embeds.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/month": {
+    "title": "Month",
+    "markdown_path": "markdown\\docs\\month.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sigma-product-releases": {
+    "title": "Sigma product releases",
+    "markdown_path": "markdown\\docs\\sigma-product-releases.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/set-up-row-level-security": {
+    "title": "Set up row-level security",
+    "markdown_path": "markdown\\docs\\set-up-row-level-security.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/common-embed-error-codes-and-messages": {
+    "title": "Common embed error codes and messages",
+    "markdown_path": "markdown\\docs\\common-embed-error-codes-and-messages.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/collaborate-with-live-edit-in-workbooks": {
+    "title": "Collaborate with Live Edit in workbooks",
+    "markdown_path": "markdown\\docs\\collaborate-with-live-edit-in-workbooks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/array": {
+    "title": "Array",
+    "markdown_path": "markdown\\docs\\array.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-worksheet-columns": {
+    "title": "Dataset Worksheet Columns",
+    "markdown_path": "markdown\\docs\\dataset-worksheet-columns.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-additional-options-for-exports": {
+    "title": "Configure additional options for exports",
+    "markdown_path": "markdown\\docs\\configure-additional-options-for-exports.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/inbound-event-reference": {
+    "title": "Inbound event reference",
+    "markdown_path": "markdown\\docs\\inbound-event-reference.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/app-based-authentication-for-users": {
+    "title": "App-based two-factor authentication for users (Beta)",
+    "markdown_path": "markdown\\docs\\app-based-authentication-for-users.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-waterfall-chart": {
+    "title": "Build a waterfall chart",
+    "markdown_path": "markdown\\docs\\build-a-waterfall-chart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/guest-user-accounts": {
+    "title": "Guest User Accounts",
+    "markdown_path": "markdown\\docs\\guest-user-accounts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-an-audit-logs-storage-integration": {
+    "title": "Manage an audit logs storage integration",
+    "markdown_path": "markdown\\docs\\manage-an-audit-logs-storage-integration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/indaterange": {
+    "title": "InDateRange",
+    "markdown_path": "markdown\\docs\\indaterange.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/review-warehouse-view-details": {
+    "title": "Review warehouse view details",
+    "markdown_path": "markdown\\docs\\review-warehouse-view-details.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-alloydb": {
+    "title": "Connect to AlloyDB",
+    "markdown_path": "markdown\\docs\\connect-to-alloydb.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/within": {
+    "title": "Within",
+    "markdown_path": "markdown\\docs\\within.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/year": {
+    "title": "Year",
+    "markdown_path": "markdown\\docs\\year.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-email": {
+    "title": "Export to email",
+    "markdown_path": "markdown\\docs\\export-to-email.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-azure-sql-database": {
+    "title": "Connect to Azure SQL Database",
+    "markdown_path": "markdown\\docs\\connect-to-azure-sql-database.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-navigate-to-destinations": {
+    "title": "Create actions that navigate to destinations",
+    "markdown_path": "markdown\\docs\\create-actions-that-navigate-to-destinations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/recover-deleted-documents": {
+    "title": "Recover deleted documents",
+    "markdown_path": "markdown\\docs\\recover-deleted-documents.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/text-functions": {
+    "title": "Text functions",
+    "markdown_path": "markdown\\docs\\text-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-cross-element-filters": {
+    "title": "Create cross-element filters",
+    "markdown_path": "markdown\\docs\\create-cross-element-filters.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arrayconcat": {
+    "title": "ArrayConcat",
+    "markdown_path": "markdown\\docs\\arrayconcat.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/calltext": {
+    "title": "CallText",
+    "markdown_path": "markdown\\docs\\calltext.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/image-elements": {
+    "title": "Image elements",
+    "markdown_path": "markdown\\docs\\image-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/perform-ai-queries": {
+    "title": "Perform AI queries",
+    "markdown_path": "markdown\\docs\\perform-ai-queries.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/filldown": {
+    "title": "FillDown",
+    "markdown_path": "markdown\\docs\\filldown.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/aggvariant": {
+    "title": "AggVariant",
+    "markdown_path": "markdown\\docs\\aggvariant.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-modify-input-table-data": {
+    "title": "Create actions that modify input table data",
+    "markdown_path": "markdown\\docs\\create-actions-that-modify-input-table-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/register-a-plugin-with-your-sigma-organization": {
+    "title": "Register a Plugin with your Sigma Organization",
+    "markdown_path": "markdown\\docs\\register-a-plugin-with-your-sigma-organization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/inpriordaterange": {
+    "title": "InPriorDateRange",
+    "markdown_path": "markdown\\docs\\inpriordaterange.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/avgif": {
+    "title": "AvgIf",
+    "markdown_path": "markdown\\docs\\avgif.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-account-types": {
+    "title": "Create and manage account types",
+    "markdown_path": "markdown\\docs\\create-and-manage-account-types.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/access-the-administration-portal": {
+    "title": "Administer Sigma",
+    "markdown_path": "markdown\\docs\\access-the-administration-portal.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/get-started-with-sigmas-api": {
+    "title": "About the Sigma REST API",
+    "markdown_path": "markdown\\docs\\get-started-with-sigmas-api.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rownumber": {
+    "title": "RowNumber",
+    "markdown_path": "markdown\\docs\\rownumber.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/full-outer-join": {
+    "title": "Full Outer Join",
+    "markdown_path": "markdown\\docs\\full-outer-join.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/box-and-whisker-charts": {
+    "title": "Box and whisker charts",
+    "markdown_path": "markdown\\docs\\box-and-whisker-charts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/reverse": {
+    "title": "Reverse",
+    "markdown_path": "markdown\\docs\\reverse.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sequence": {
+    "title": "Sequence",
+    "markdown_path": "markdown\\docs\\sequence.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dateadd": {
+    "title": "DateAdd",
+    "markdown_path": "markdown\\docs\\dateadd.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/deactivate-users": {
+    "title": "Deactivate users",
+    "markdown_path": "markdown\\docs\\deactivate-users.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-a-custom-color-scale": {
+    "title": "Add a custom color scale",
+    "markdown_path": "markdown\\docs\\add-a-custom-color-scale.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/share-workbook-templates": {
+    "title": "Share workbook templates",
+    "markdown_path": "markdown\\docs\\share-workbook-templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/highlight-chart-values": {
+    "title": "Highlight chart values",
+    "markdown_path": "markdown\\docs\\highlight-chart-values.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/converttimezone": {
+    "title": "ConvertTimezone",
+    "markdown_path": "markdown\\docs\\converttimezone.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rankdense": {
+    "title": "RankDense",
+    "markdown_path": "markdown\\docs\\rankdense.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/right": {
+    "title": "Right",
+    "markdown_path": "markdown\\docs\\right.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/define-relationships-in-data-models": {
+    "title": "Define relationships in data models",
+    "markdown_path": "markdown\\docs\\define-relationships-in-data-models.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-slack-integration": {
+    "title": "Manage Slack integration",
+    "markdown_path": "markdown\\docs\\manage-slack-integration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/generate-and-access-structured-objects": {
+    "title": "Generate and access structured objects",
+    "markdown_path": "markdown\\docs\\generate-and-access-structured-objects.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-call-stored-procedures": {
+    "title": "Create actions that call stored procedures",
+    "markdown_path": "markdown\\docs\\create-actions-that-call-stored-procedures.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/variancepop": {
+    "title": "VariancePop",
+    "markdown_path": "markdown\\docs\\variancepop.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumulativecount": {
+    "title": "CumulativeCount",
+    "markdown_path": "markdown\\docs\\cumulativecount.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rankpercentile": {
+    "title": "RankPercentile",
+    "markdown_path": "markdown\\docs\\rankpercentile.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/proper": {
+    "title": "Proper",
+    "markdown_path": "markdown\\docs\\proper.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/search-in-sigma": {
+    "title": "Search for files in your organization",
+    "markdown_path": "markdown\\docs\\search-in-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/mandatory-two-factor-authentication-for-accounts": {
+    "title": "Mandatory two-factor authentication for accounts",
+    "markdown_path": "markdown\\docs\\mandatory-two-factor-authentication-for-accounts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/examine-dataset-queries": {
+    "title": "Examine dataset queries",
+    "markdown_path": "markdown\\docs\\examine-dataset-queries.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-dataset-parameters": {
+    "title": "Create and manage dataset parameters",
+    "markdown_path": "markdown\\docs\\create-and-manage-dataset-parameters.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/inner-join": {
+    "title": "Inner Join",
+    "markdown_path": "markdown\\docs\\inner-join.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/distanceplane": {
+    "title": "DistancePlane",
+    "markdown_path": "markdown\\docs\\distanceplane.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/endswith": {
+    "title": "EndsWith",
+    "markdown_path": "markdown\\docs\\endswith.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/last": {
+    "title": "Last",
+    "markdown_path": "markdown\\docs\\last.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/date-functions": {
+    "title": "Date functions",
+    "markdown_path": "markdown\\docs\\date-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumulativecorr": {
+    "title": "CumulativeCorr",
+    "markdown_path": "markdown\\docs\\cumulativecorr.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-modals-to-create-focused-content-views": {
+    "title": "Use modals to create focused content views",
+    "markdown_path": "markdown\\docs\\use-modals-to-create-focused-content-views.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-chart-mark-tooltip-fields": {
+    "title": "Customize chart mark tooltip fields",
+    "markdown_path": "markdown\\docs\\customize-chart-mark-tooltip-fields.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/navigating-a-workbook": {
+    "title": "Navigate a workbook",
+    "markdown_path": "markdown\\docs\\navigating-a-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/fv": {
+    "title": "FV",
+    "markdown_path": "markdown\\docs\\fv.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/makeline": {
+    "title": "MakeLine",
+    "markdown_path": "markdown\\docs\\makeline.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-layout-elements": {
+    "title": "Intro to layout elements",
+    "markdown_path": "markdown\\docs\\intro-to-layout-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/greatest": {
+    "title": "Greatest",
+    "markdown_path": "markdown\\docs\\greatest.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/restrict-access-to-data-in-embedded-content": {
+    "title": "Restrict access to data in embedded content",
+    "markdown_path": "markdown\\docs\\restrict-access-to-data-in-embedded-content.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-ui-elements": {
+    "title": "Intro to UI elements",
+    "markdown_path": "markdown\\docs\\intro-to-ui-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lesson-six-organization": {
+    "title": "Lesson six: Organization",
+    "markdown_path": "markdown\\docs\\lesson-six-organization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/abs": {
+    "title": "Abs",
+    "markdown_path": "markdown\\docs\\abs.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/impersonate-users": {
+    "title": "Impersonate users",
+    "markdown_path": "markdown\\docs\\impersonate-users.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/variant": {
+    "title": "Variant",
+    "markdown_path": "markdown\\docs\\variant.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/format-pdf-exports": {
+    "title": "Format PDF exports (legacy layouts)",
+    "markdown_path": "markdown\\docs\\format-pdf-exports.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-a-dataset-from-sql": {
+    "title": "Create a dataset from SQL",
+    "markdown_path": "markdown\\docs\\create-a-dataset-from-sql.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/regressionintercept": {
+    "title": "RegressionIntercept",
+    "markdown_path": "markdown\\docs\\regressionintercept.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/grandtotal": {
+    "title": "GrandTotal",
+    "markdown_path": "markdown\\docs\\grandtotal.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-data-entry-permission-on-input-tables": {
+    "title": "Customize data entry permission on input tables",
+    "markdown_path": "markdown\\docs\\customize-data-entry-permission-on-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/system-functions": {
+    "title": "System functions",
+    "markdown_path": "markdown\\docs\\system-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumulativeavg": {
+    "title": "CumulativeAvg",
+    "markdown_path": "markdown\\docs\\cumulativeavg.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumulativemax": {
+    "title": "CumulativeMax",
+    "markdown_path": "markdown\\docs\\cumulativemax.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/write-and-run-python-code": {
+    "title": "Write and run Python code in Sigma (Beta)",
+    "markdown_path": "markdown\\docs\\write-and-run-python-code.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/single-sign-on-with-saml": {
+    "title": "Set up single sign-on with SAML",
+    "markdown_path": "markdown\\docs\\single-sign-on-with-saml.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/getting-started-with-ai": {
+    "title": "Getting started with AI",
+    "markdown_path": "markdown\\docs\\getting-started-with-ai.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/splittoarray": {
+    "title": "SplitToArray",
+    "markdown_path": "markdown\\docs\\splittoarray.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/snowflake-usage-templates": {
+    "title": "Snowflake usage templates",
+    "markdown_path": "markdown\\docs\\snowflake-usage-templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/array-functions": {
+    "title": "Array functions",
+    "markdown_path": "markdown\\docs\\array-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-action-sequences": {
+    "title": "Create and manage action sequences",
+    "markdown_path": "markdown\\docs\\create-and-manage-action-sequences.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/set-up-a-databricks-connection-for-python": {
+    "title": "Set up a Databricks connection for Python (Beta)",
+    "markdown_path": "markdown\\docs\\set-up-a-databricks-connection-for-python.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-workbooks-from-templates": {
+    "title": "Create workbooks from templates",
+    "markdown_path": "markdown\\docs\\create-workbooks-from-templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/text-elements": {
+    "title": "Text elements",
+    "markdown_path": "markdown\\docs\\text-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rpad": {
+    "title": "RPad",
+    "markdown_path": "markdown\\docs\\rpad.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-metrics-in-a-workbook": {
+    "title": "Use metrics in a workbook",
+    "markdown_path": "markdown\\docs\\use-metrics-in-a-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/invite-new-organization-members": {
+    "title": "Invite new users to your organization",
+    "markdown_path": "markdown\\docs\\invite-new-organization-members.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-permissions-overview": {
+    "title": "Data access overview",
+    "markdown_path": "markdown\\docs\\data-permissions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/firstnonnull": {
+    "title": "FirstNonNull",
+    "markdown_path": "markdown\\docs\\firstnonnull.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/endofmonth": {
+    "title": "EndOfMonth",
+    "markdown_path": "markdown\\docs\\endofmonth.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-users-with-user-360": {
+    "title": "Manage Users with User 360",
+    "markdown_path": "markdown\\docs\\manage-users-with-user-360.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/hubspot-campaign-creator-template": {
+    "title": "HubSpot Campaign Analysis template",
+    "markdown_path": "markdown\\docs\\hubspot-campaign-creator-template.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/logical": {
+    "title": "Logical",
+    "markdown_path": "markdown\\docs\\logical.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dayofyear": {
+    "title": "DayOfYear",
+    "markdown_path": "markdown\\docs\\dayofyear.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/geography": {
+    "title": "Geography",
+    "markdown_path": "markdown\\docs\\geography.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sqrt": {
+    "title": "Sqrt",
+    "markdown_path": "markdown\\docs\\sqrt.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/like": {
+    "title": "Like",
+    "markdown_path": "markdown\\docs\\like.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-configure-a-legend-control": {
+    "title": "Create and configure a legend control",
+    "markdown_path": "markdown\\docs\\create-and-configure-a-legend-control.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dateformat": {
+    "title": "DateFormat",
+    "markdown_path": "markdown\\docs\\dateformat.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/calldatetime": {
+    "title": "CallDatetime",
+    "markdown_path": "markdown\\docs\\calldatetime.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/parameters-in-workbooks": {
+    "title": "Reference control values as parameters",
+    "markdown_path": "markdown\\docs\\parameters-in-workbooks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lastnonnull": {
+    "title": "LastNonNull",
+    "markdown_path": "markdown\\docs\\lastnonnull.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/embed-url-parameters": {
+    "title": "Embed URL parameters",
+    "markdown_path": "markdown\\docs\\embed-url-parameters.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/about-metrics": {
+    "title": "About metrics",
+    "markdown_path": "markdown\\docs\\about-metrics.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/datelookback": {
+    "title": "DateLookback",
+    "markdown_path": "markdown\\docs\\datelookback.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/custom-session-timeouts-for-okta": {
+    "title": "Custom Session Timeouts for Okta",
+    "markdown_path": "markdown\\docs\\custom-session-timeouts-for-okta.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/set-up-write-access": {
+    "title": "Set up write access",
+    "markdown_path": "markdown\\docs\\set-up-write-access.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-edit-period-over-period-analysis": {
+    "title": "Create and edit period-over-period analysis",
+    "markdown_path": "markdown\\docs\\create-and-edit-period-over-period-analysis.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rtrim": {
+    "title": "RTrim",
+    "markdown_path": "markdown\\docs\\rtrim.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/mround": {
+    "title": "MRound",
+    "markdown_path": "markdown\\docs\\mround.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-dbt-integration": {
+    "title": "Manage dbt Integration",
+    "markdown_path": "markdown\\docs\\manage-dbt-integration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/callnumber": {
+    "title": "CallNumber",
+    "markdown_path": "markdown\\docs\\callnumber.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/callvariant": {
+    "title": "CallVariant",
+    "markdown_path": "markdown\\docs\\callvariant.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/aggnumber": {
+    "title": "AggNumber",
+    "markdown_path": "markdown\\docs\\aggnumber.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/makedate": {
+    "title": "MakeDate",
+    "markdown_path": "markdown\\docs\\makedate.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/enable-or-disable-public-embeds": {
+    "title": "Enable or disable public embeds",
+    "markdown_path": "markdown\\docs\\enable-or-disable-public-embeds.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/organize-columns-into-folders": {
+    "title": "Organize columns into folders",
+    "markdown_path": "markdown\\docs\\organize-columns-into-folders.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cos": {
+    "title": "Cos",
+    "markdown_path": "markdown\\docs\\cos.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/percentoftotal": {
+    "title": "PercentOfTotal",
+    "markdown_path": "markdown\\docs\\percentoftotal.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-oauth-authentication-for-your-sigma-organization": {
+    "title": "Configure OAuth authentication for your Sigma organization",
+    "markdown_path": "markdown\\docs\\configure-oauth-authentication-for-your-sigma-organization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-links": {
+    "title": "Dataset Links",
+    "markdown_path": "markdown\\docs\\dataset-links.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/format-and-customize-a-table": {
+    "title": "Format and customize a table",
+    "markdown_path": "markdown\\docs\\format-and-customize-a-table.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/using-csvs-in-datasets": {
+    "title": "Using CSVs in Datasets",
+    "markdown_path": "markdown\\docs\\using-csvs-in-datasets.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-best-practices": {
+    "title": "Dataset best practices",
+    "markdown_path": "markdown\\docs\\dataset-best-practices.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/latitude": {
+    "title": "Latitude",
+    "markdown_path": "markdown\\docs\\latitude.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/run-a-workbook-with-service-account-credentials": {
+    "title": "Run a workbook with service account credentials",
+    "markdown_path": "markdown\\docs\\run-a-workbook-with-service-account-credentials.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lead": {
+    "title": "Lead",
+    "markdown_path": "markdown\\docs\\lead.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-plugins-to-work-with-actions": {
+    "title": "Configure plugins to work with actions",
+    "markdown_path": "markdown\\docs\\configure-plugins-to-work-with-actions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/makepoint": {
+    "title": "MakePoint",
+    "markdown_path": "markdown\\docs\\makepoint.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/segmented-control": {
+    "title": "Create and configure a segmented control",
+    "markdown_path": "markdown\\docs\\segmented-control.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumulativemin": {
+    "title": "CumulativeMin",
+    "markdown_path": "markdown\\docs\\cumulativemin.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/contains": {
+    "title": "Contains",
+    "markdown_path": "markdown\\docs\\contains.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-interact-with-custom-views": {
+    "title": "Create and interact with custom views",
+    "markdown_path": "markdown\\docs\\create-and-interact-with-custom-views.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-share-saved-views": {
+    "title": "Create and share saved views",
+    "markdown_path": "markdown\\docs\\create-and-share-saved-views.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/today": {
+    "title": "Today",
+    "markdown_path": "markdown\\docs\\today.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/movingsum": {
+    "title": "MovingSum",
+    "markdown_path": "markdown\\docs\\movingsum.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/aggtext": {
+    "title": "AggText",
+    "markdown_path": "markdown\\docs\\aggtext.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-columns-through-lookup": {
+    "title": "Add columns through Lookup",
+    "markdown_path": "markdown\\docs\\add-columns-through-lookup.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-a-secure-embed": {
+    "title": "Create a secure embed",
+    "markdown_path": "markdown\\docs\\create-a-secure-embed.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-types-and-formats": {
+    "title": "Supported data types and formats",
+    "markdown_path": "markdown\\docs\\data-types-and-formats.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-input-tables": {
+    "title": "Intro to input tables",
+    "markdown_path": "markdown\\docs\\intro-to-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/currentuserfirstname": {
+    "title": "CurrentUserFirstName",
+    "markdown_path": "markdown\\docs\\currentuserfirstname.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cot": {
+    "title": "Cot",
+    "markdown_path": "markdown\\docs\\cot.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-geography-map": {
+    "title": "Build a geography map",
+    "markdown_path": "markdown\\docs\\build-a-geography-map.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/aws-privatelink-connections": {
+    "title": "AWS PrivateLink Connections",
+    "markdown_path": "markdown\\docs\\aws-privatelink-connections.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-tables": {
+    "title": "Create and manage tables",
+    "markdown_path": "markdown\\docs\\create-and-manage-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/display-chart-data-labels": {
+    "title": "Display chart data labels",
+    "markdown_path": "markdown\\docs\\display-chart-data-labels.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-organization-translation-files": {
+    "title": "Manage organization translation files",
+    "markdown_path": "markdown\\docs\\manage-organization-translation-files.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/agglogical": {
+    "title": "AggLogical",
+    "markdown_path": "markdown\\docs\\agglogical.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/datetrunc": {
+    "title": "DateTrunc",
+    "markdown_path": "markdown\\docs\\datetrunc.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-popovers-to-simplify-a-workbook-interface": {
+    "title": "Use popovers to simplify a workbook interface",
+    "markdown_path": "markdown\\docs\\use-popovers-to-simplify-a-workbook-interface.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/enable-a-custom-homepage": {
+    "title": "Set up custom homepages",
+    "markdown_path": "markdown\\docs\\enable-a-custom-homepage.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/movingmin": {
+    "title": "MovingMin",
+    "markdown_path": "markdown\\docs\\movingmin.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/edit-draft-and-publish-a-workbook": {
+    "title": "Draft and publish a workbook",
+    "markdown_path": "markdown\\docs\\edit-draft-and-publish-a-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/financial-functions": {
+    "title": "Financial functions",
+    "markdown_path": "markdown\\docs\\financial-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ppmt": {
+    "title": "PPmt",
+    "markdown_path": "markdown\\docs\\ppmt.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/share-and-accept-cross-org-workbook-templates": {
+    "title": "Share and accept cross-org workbook templates",
+    "markdown_path": "markdown\\docs\\share-and-accept-cross-org-workbook-templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-sql-server-2022": {
+    "title": "Connect to SQL Server 2022 and Azure SQL Managed Instance",
+    "markdown_path": "markdown\\docs\\connect-to-sql-server-2022.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-scatter-plot": {
+    "title": "Build a scatter plot",
+    "markdown_path": "markdown\\docs\\build-a-scatter-plot.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/function-index": {
+    "title": "Function index",
+    "markdown_path": "markdown\\docs\\function-index.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-to-postgresql": {
+    "title": "Connect to PostgreSQL",
+    "markdown_path": "markdown\\docs\\connect-to-postgresql.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-data-permissions": {
+    "title": "Manage access to data and connections",
+    "markdown_path": "markdown\\docs\\manage-data-permissions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-ai-features-for-your-organization": {
+    "title": "Configure AI features for your organization",
+    "markdown_path": "markdown\\docs\\configure-ai-features-for-your-organization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-tabbed-containers-to-organize-workbook-content": {
+    "title": "Use tabbed containers to organize workbook content",
+    "markdown_path": "markdown\\docs\\use-tabbed-containers-to-organize-workbook-content.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/currentuserinteam": {
+    "title": "CurrentUserInTeam",
+    "markdown_path": "markdown\\docs\\currentuserinteam.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-control-values-in-the-url": {
+    "title": "Set control values in a URL using query string parameters",
+    "markdown_path": "markdown\\docs\\workbook-control-values-in-the-url.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/weekday": {
+    "title": "Weekday",
+    "markdown_path": "markdown\\docs\\weekday.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/md5": {
+    "title": "MD5",
+    "markdown_path": "markdown\\docs\\md5.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-edit-workbook-templates": {
+    "title": "Create and edit workbook templates",
+    "markdown_path": "markdown\\docs\\create-and-edit-workbook-templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/math-functions": {
+    "title": "Math functions",
+    "markdown_path": "markdown\\docs\\math-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sparklineagg": {
+    "title": "SparklineAgg (Beta)",
+    "markdown_path": "markdown\\docs\\sparklineagg.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sin": {
+    "title": "Sin",
+    "markdown_path": "markdown\\docs\\sin.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/movingvariance": {
+    "title": "MovingVariance",
+    "markdown_path": "markdown\\docs\\movingvariance.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/azure-private-link-connections": {
+    "title": "Azure Private Link Connections",
+    "markdown_path": "markdown\\docs\\azure-private-link-connections.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/json-web-token-claims-reference": {
+    "title": "JSON web token claims reference",
+    "markdown_path": "markdown\\docs\\json-web-token-claims-reference.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/callgeography": {
+    "title": "CallGeography",
+    "markdown_path": "markdown\\docs\\callgeography.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-workbook-warehouse-views": {
+    "title": "Create and manage warehouse views",
+    "markdown_path": "markdown\\docs\\create-and-manage-workbook-warehouse-views.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/find": {
+    "title": "Find",
+    "markdown_path": "markdown\\docs\\find.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sigmas-sample-connection": {
+    "title": "Sigma's sample connection",
+    "markdown_path": "markdown\\docs\\sigmas-sample-connection.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/splitpart": {
+    "title": "SplitPart",
+    "markdown_path": "markdown\\docs\\splitpart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-microsoft-sharepoint": {
+    "title": "Export to Microsoft SharePoint",
+    "markdown_path": "markdown\\docs\\export-to-microsoft-sharepoint.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/restrict-access-to-sigma-by-ip-address": {
+    "title": "Restrict access to Sigma by IP address",
+    "markdown_path": "markdown\\docs\\restrict-access-to-sigma-by-ip-address.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-linked-columns-in-workbooks": {
+    "title": "Use linked columns in workbooks",
+    "markdown_path": "markdown\\docs\\use-linked-columns-in-workbooks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/tan": {
+    "title": "Tan",
+    "markdown_path": "markdown\\docs\\tan.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-control-elements": {
+    "title": "Intro to control elements",
+    "markdown_path": "markdown\\docs\\intro-to-control-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-google-drive": {
+    "title": "Export to Google Drive",
+    "markdown_path": "markdown\\docs\\export-to-google-drive.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/examine-workbook-queries": {
+    "title": "Examine workbook and data model queries",
+    "markdown_path": "markdown\\docs\\examine-workbook-queries.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dateparse": {
+    "title": "DateParse",
+    "markdown_path": "markdown\\docs\\dateparse.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-worksheet-controls": {
+    "title": "Dataset worksheet controls",
+    "markdown_path": "markdown\\docs\\dataset-worksheet-controls.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/agggeography": {
+    "title": "AggGeography",
+    "markdown_path": "markdown\\docs\\agggeography.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/least": {
+    "title": "Least",
+    "markdown_path": "markdown\\docs\\least.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/between": {
+    "title": "Between",
+    "markdown_path": "markdown\\docs\\between.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/median": {
+    "title": "Median",
+    "markdown_path": "markdown\\docs\\median.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-visualizations": {
+    "title": "Intro to charts",
+    "markdown_path": "markdown\\docs\\intro-to-visualizations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/effect": {
+    "title": "Effect",
+    "markdown_path": "markdown\\docs\\effect.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-bar-chart": {
+    "title": "Build a bar chart",
+    "markdown_path": "markdown\\docs\\build-a-bar-chart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/power": {
+    "title": "Power",
+    "markdown_path": "markdown\\docs\\power.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/pivot-table-subtotals": {
+    "title": "Pivot table totals and subtotals",
+    "markdown_path": "markdown\\docs\\pivot-table-subtotals.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-data-models": {
+    "title": "Create and manage data models",
+    "markdown_path": "markdown\\docs\\create-and-manage-data-models.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/log": {
+    "title": "Log",
+    "markdown_path": "markdown\\docs\\log.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/caching-and-data-freshness": {
+    "title": "Caching and data freshness",
+    "markdown_path": "markdown\\docs\\caching-and-data-freshness.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/pie-and-donut-charts": {
+    "title": "Pie and donut charts",
+    "markdown_path": "markdown\\docs\\pie-and-donut-charts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/synced-controls": {
+    "title": "Synced controls",
+    "markdown_path": "markdown\\docs\\synced-controls.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/view-column-details": {
+    "title": "View column details",
+    "markdown_path": "markdown\\docs\\view-column-details.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-hyperlinks-to-columns": {
+    "title": "Add hyperlinks and images to columns",
+    "markdown_path": "markdown\\docs\\add-hyperlinks-to-columns.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/currentuseremail": {
+    "title": "CurrentUserEmail",
+    "markdown_path": "markdown\\docs\\currentuseremail.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/monthname": {
+    "title": "MonthName",
+    "markdown_path": "markdown\\docs\\monthname.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-ai-with-formulas": {
+    "title": "Use AI with formulas (Beta)",
+    "markdown_path": "markdown\\docs\\use-ai-with-formulas.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-apps": {
+    "title": "About Sigma data apps",
+    "markdown_path": "markdown\\docs\\data-apps.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/format-chart-axis-position": {
+    "title": "Format chart axis position",
+    "markdown_path": "markdown\\docs\\format-chart-axis-position.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/first": {
+    "title": "First",
+    "markdown_path": "markdown\\docs\\first.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/format-pivot-table-totals": {
+    "title": "Format pivot table totals",
+    "markdown_path": "markdown\\docs\\format-pivot-table-totals.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cagr": {
+    "title": "CAGR",
+    "markdown_path": "markdown\\docs\\cagr.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/roundup": {
+    "title": "RoundUp",
+    "markdown_path": "markdown\\docs\\roundup.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-single-select-and-multi-select-columns-on-input-tables": {
+    "title": "Configure single-select or multi-select columns on input tables (Beta)",
+    "markdown_path": "markdown\\docs\\configure-single-select-and-multi-select-columns-on-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lag": {
+    "title": "Lag",
+    "markdown_path": "markdown\\docs\\lag.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/hierarchies": {
+    "title": "Hierarchies (Beta)",
+    "markdown_path": "markdown\\docs\\hierarchies.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/aggdatetime": {
+    "title": "AggDatetime",
+    "markdown_path": "markdown\\docs\\aggdatetime.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/drill-into-data": {
+    "title": "Drill down into data",
+    "markdown_path": "markdown\\docs\\drill-into-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/change-the-data-source-for-a-workbook-or-element": {
+    "title": "Change the data source for a workbook or element",
+    "markdown_path": "markdown\\docs\\change-the-data-source-for-a-workbook-or-element.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-cloud-storage": {
+    "title": "Export to cloud storage",
+    "markdown_path": "markdown\\docs\\export-to-cloud-storage.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-oauth-with-write-access": {
+    "title": "Configure OAuth with write access",
+    "markdown_path": "markdown\\docs\\configure-oauth-with-write-access.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/user-attributes": {
+    "title": "Configure user attributes",
+    "markdown_path": "markdown\\docs\\user-attributes.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-app-tutorial-data-collection": {
+    "title": "Data app tutorial: Build an employee feedback survey",
+    "markdown_path": "markdown\\docs\\data-app-tutorial-data-collection.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-format-trellis-charts": {
+    "title": "Create and format trellis charts",
+    "markdown_path": "markdown\\docs\\create-and-format-trellis-charts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/distance": {
+    "title": "Distance",
+    "markdown_path": "markdown\\docs\\distance.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/longitude": {
+    "title": "Longitude",
+    "markdown_path": "markdown\\docs\\longitude.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-element-background-and-styles": {
+    "title": "Customize element background and styles",
+    "markdown_path": "markdown\\docs\\customize-element-background-and-styles.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-scheduled-exports": {
+    "title": "Manage scheduled exports",
+    "markdown_path": "markdown\\docs\\manage-scheduled-exports.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/binfixed": {
+    "title": "BinFixed",
+    "markdown_path": "markdown\\docs\\binfixed.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/combo-charts": {
+    "title": "Combo charts",
+    "markdown_path": "markdown\\docs\\combo-charts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/keyboard-shortcuts-microsoft-windows": {
+    "title": "Keyboard shortcuts: Microsoft Windows",
+    "markdown_path": "markdown\\docs\\keyboard-shortcuts-microsoft-windows.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arrayjoin": {
+    "title": "ArrayJoin",
+    "markdown_path": "markdown\\docs\\arrayjoin.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/view-license-utilization": {
+    "title": "View license utilization",
+    "markdown_path": "markdown\\docs\\view-license-utilization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-chart-axis-marks": {
+    "title": "Configure chart axis marks",
+    "markdown_path": "markdown\\docs\\configure-chart-axis-marks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-sankey-diagram": {
+    "title": "Build a Sankey diagram",
+    "markdown_path": "markdown\\docs\\build-a-sankey-diagram.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-modify-plugins": {
+    "title": "Create actions that modify plugins",
+    "markdown_path": "markdown\\docs\\create-actions-that-modify-plugins.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/listaggdistinct": {
+    "title": "ListAggDistinct",
+    "markdown_path": "markdown\\docs\\listaggdistinct.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/generate-embed-client-credentials": {
+    "title": "Generate embed client credentials",
+    "markdown_path": "markdown\\docs\\generate-embed-client-credentials.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-external-ai-integrations": {
+    "title": "Manage external AI integrations",
+    "markdown_path": "markdown\\docs\\manage-external-ai-integrations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/second": {
+    "title": "Second",
+    "markdown_path": "markdown\\docs\\second.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lesson-four-charts-and-visualizations": {
+    "title": "Lesson four: Charts and visualizations",
+    "markdown_path": "markdown\\docs\\lesson-four-charts-and-visualizations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-variables-in-actions": {
+    "title": "Use variables in actions",
+    "markdown_path": "markdown\\docs\\use-variables-in-actions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lastday": {
+    "title": "LastDay",
+    "markdown_path": "markdown\\docs\\lastday.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/mod": {
+    "title": "Mod",
+    "markdown_path": "markdown\\docs\\mod.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/disable-commenting": {
+    "title": "Enable or disable comments",
+    "markdown_path": "markdown\\docs\\disable-commenting.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-kpi-chart": {
+    "title": "Build a KPI chart",
+    "markdown_path": "markdown\\docs\\build-a-kpi-chart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/license-upgrade-requests": {
+    "title": "Enable or disable account upgrade requests",
+    "markdown_path": "markdown\\docs\\license-upgrade-requests.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/area-charts": {
+    "title": "Area charts",
+    "markdown_path": "markdown\\docs\\area-charts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/troubleshoot-input-table-connection-issues": {
+    "title": "Troubleshoot input table connection issues",
+    "markdown_path": "markdown\\docs\\troubleshoot-input-table-connection-issues.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-version-tags": {
+    "title": "Create and manage version tags",
+    "markdown_path": "markdown\\docs\\create-and-manage-version-tags.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/schedule-materialization-for-a-data-model-or-workbook": {
+    "title": "Schedule materialization for a data model or workbook (Beta)",
+    "markdown_path": "markdown\\docs\\schedule-materialization-for-a-data-model-or-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/drill-down-control": {
+    "title": "Drill down control",
+    "markdown_path": "markdown\\docs\\drill-down-control.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-data-catalog": {
+    "title": "Review and manage your data catalog",
+    "markdown_path": "markdown\\docs\\manage-data-catalog.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/migrate-to-jwt-signed-secure-embed-urls": {
+    "title": "Migrate to JWT-signed secure embed URLs",
+    "markdown_path": "markdown\\docs\\migrate-to-jwt-signed-secure-embed-urls.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ipmt": {
+    "title": "IPmt",
+    "markdown_path": "markdown\\docs\\ipmt.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/right-outer-join": {
+    "title": "Right Outer Join",
+    "markdown_path": "markdown\\docs\\right-outer-join.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/extract-columns-from-json-or-variant-data": {
+    "title": "Extract columns from JSON or variant data",
+    "markdown_path": "markdown\\docs\\extract-columns-from-json-or-variant-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbooks-overview": {
+    "title": "Workbooks overview",
+    "markdown_path": "markdown\\docs\\workbooks-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connect-through-ssh": {
+    "title": "Connect through SSH",
+    "markdown_path": "markdown\\docs\\connect-through-ssh.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-data-governance-options-for-input-tables": {
+    "title": "Configure data governance options for input tables",
+    "markdown_path": "markdown\\docs\\configure-data-governance-options-for-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-versions-and-version-history": {
+    "title": "Workbook versions and version history",
+    "markdown_path": "markdown\\docs\\workbook-versions-and-version-history.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/troubleshoot-your-connection": {
+    "title": "Troubleshoot your connection",
+    "markdown_path": "markdown\\docs\\troubleshoot-your-connection.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/share-a-folder": {
+    "title": "Share a folder",
+    "markdown_path": "markdown\\docs\\share-a-folder.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/int": {
+    "title": "Int",
+    "markdown_path": "markdown\\docs\\int.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-workspaces": {
+    "title": "Manage workspaces",
+    "markdown_path": "markdown\\docs\\manage-workspaces.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/keyboard-shortcuts-mac-os": {
+    "title": "Keyboard shortcuts: Mac OS",
+    "markdown_path": "markdown\\docs\\keyboard-shortcuts-mac-os.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arraylength": {
+    "title": "ArrayLength",
+    "markdown_path": "markdown\\docs\\arraylength.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/movingmax": {
+    "title": "MovingMax",
+    "markdown_path": "markdown\\docs\\movingmax.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/view-and-manage-existing-actions": {
+    "title": "View and manage existing actions",
+    "markdown_path": "markdown\\docs\\view-and-manage-existing-actions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/format-chart-legend": {
+    "title": "Format chart legend",
+    "markdown_path": "markdown\\docs\\format-chart-legend.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/plugin-examples": {
+    "title": "Plugin examples",
+    "markdown_path": "markdown\\docs\\plugin-examples.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/atan": {
+    "title": "Atan",
+    "markdown_path": "markdown\\docs\\atan.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/round": {
+    "title": "Round",
+    "markdown_path": "markdown\\docs\\round.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-shortcuts-to-documents": {
+    "title": "Add shortcuts to documents",
+    "markdown_path": "markdown\\docs\\add-shortcuts-to-documents.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/query-and-extend-snowflake-semantic-views-in-sigma": {
+    "title": "Query and extend Snowflake semantic views in Sigma (Beta)",
+    "markdown_path": "markdown\\docs\\query-and-extend-snowflake-semantic-views-in-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/switch": {
+    "title": "Switch",
+    "markdown_path": "markdown\\docs\\switch.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/regressionslope": {
+    "title": "RegressionSlope",
+    "markdown_path": "markdown\\docs\\regressionslope.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/format-a-microsoft-teams-message": {
+    "title": "Format a Microsoft Teams message",
+    "markdown_path": "markdown\\docs\\format-a-microsoft-teams-message.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/visibilitylimit": {
+    "title": "VisibilityLimit",
+    "markdown_path": "markdown\\docs\\visibilitylimit.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/isodd": {
+    "title": "IsOdd",
+    "markdown_path": "markdown\\docs\\isodd.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/listagg": {
+    "title": "ListAgg",
+    "markdown_path": "markdown\\docs\\listagg.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sort-filter-values": {
+    "title": "Sort filter values",
+    "markdown_path": "markdown\\docs\\sort-filter-values.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/calllogical": {
+    "title": "CallLogical",
+    "markdown_path": "markdown\\docs\\calllogical.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/nullif": {
+    "title": "NullIf",
+    "markdown_path": "markdown\\docs\\nullif.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/aggregate-functions": {
+    "title": "Aggregate functions",
+    "markdown_path": "markdown\\docs\\aggregate-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/min": {
+    "title": "Min",
+    "markdown_path": "markdown\\docs\\min.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lookup": {
+    "title": "Lookup",
+    "markdown_path": "markdown\\docs\\lookup.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/regexpmatch": {
+    "title": "RegexpMatch",
+    "markdown_path": "markdown\\docs\\regexpmatch.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-element-filters": {
+    "title": "Filter data in data elements",
+    "markdown_path": "markdown\\docs\\data-element-filters.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-datasets": {
+    "title": "Create and manage datasets",
+    "markdown_path": "markdown\\docs\\create-and-manage-datasets.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/pmt": {
+    "title": "Pmt",
+    "markdown_path": "markdown\\docs\\pmt.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/notice-for-enabling-ai-enabled-features-in-sigma": {
+    "title": "Notice for enabling AI-enabled features in Sigma",
+    "markdown_path": "markdown\\docs\\notice-for-enabling-ai-enabled-features-in-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-your-organizations-plugins": {
+    "title": "Use your organization's plugins",
+    "markdown_path": "markdown\\docs\\use-your-organizations-plugins.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/limit-displayed-values-in-a-data-element": {
+    "title": "Limit displayed values in a data element",
+    "markdown_path": "markdown\\docs\\limit-displayed-values-in-a-data-element.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/join-functions": {
+    "title": "Join functions",
+    "markdown_path": "markdown\\docs\\join-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-custom-account-types-with-your-idp": {
+    "title": "Use custom account types with your IdP",
+    "markdown_path": "markdown\\docs\\use-custom-account-types-with-your-idp.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-users-and-teams-with-scim-and-okta": {
+    "title": "Manage users and teams with SCIM and Okta",
+    "markdown_path": "markdown\\docs\\manage-users-and-teams-with-scim-and-okta.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-actions": {
+    "title": "Intro to actions",
+    "markdown_path": "markdown\\docs\\intro-to-actions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lesson-two-working-with-data-tables": {
+    "title": "Lesson two: Working with data tables",
+    "markdown_path": "markdown\\docs\\lesson-two-working-with-data-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/custom-email-branding": {
+    "title": "Customize email branding",
+    "markdown_path": "markdown\\docs\\custom-email-branding.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/embed-ask-sigma": {
+    "title": "Embed Ask Sigma",
+    "markdown_path": "markdown\\docs\\embed-ask-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ntile": {
+    "title": "Ntile",
+    "markdown_path": "markdown\\docs\\ntile.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-metrics": {
+    "title": "Create and manage metrics",
+    "markdown_path": "markdown\\docs\\create-and-manage-metrics.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-trend-lines": {
+    "title": "Add trend lines",
+    "markdown_path": "markdown\\docs\\add-trend-lines.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-version-tags-to-workbooks-and-data-models": {
+    "title": "Add version tags to workbooks and data models",
+    "markdown_path": "markdown\\docs\\add-version-tags-to-workbooks-and-data-models.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ask-natural-language-queries-with-ask-sigma": {
+    "title": "Ask natural language queries with Ask Sigma",
+    "markdown_path": "markdown\\docs\\ask-natural-language-queries-with-ask-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/share-datasets": {
+    "title": "Share datasets",
+    "markdown_path": "markdown\\docs\\share-datasets.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/query-a-dbt-semantic-layer-integration": {
+    "title": "Query a dbt Semantic Layer integration",
+    "markdown_path": "markdown\\docs\\query-a-dbt-semantic-layer-integration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/in": {
+    "title": "In",
+    "markdown_path": "markdown\\docs\\in.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/choose": {
+    "title": "Choose",
+    "markdown_path": "markdown\\docs\\choose.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/hour": {
+    "title": "Hour",
+    "markdown_path": "markdown\\docs\\hour.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/left-outer-join": {
+    "title": "Left Outer Join",
+    "markdown_path": "markdown\\docs\\left-outer-join.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/movingcount": {
+    "title": "MovingCount",
+    "markdown_path": "markdown\\docs\\movingcount.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/percentiledisc": {
+    "title": "PercentileDisc",
+    "markdown_path": "markdown\\docs\\percentiledisc.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/corr": {
+    "title": "Corr",
+    "markdown_path": "markdown\\docs\\corr.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/register-a-sigma-plugin-dev-playground": {
+    "title": "Register a Sigma Plugin Dev Playground",
+    "markdown_path": "markdown\\docs\\register-a-sigma-plugin-dev-playground.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/nth": {
+    "title": "Nth",
+    "markdown_path": "markdown\\docs\\nth.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dynamically-assign-roles-used-by-a-connection": {
+    "title": "Dynamically assign roles used by a connection",
+    "markdown_path": "markdown\\docs\\dynamically-assign-roles-used-by-a-connection.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/logical-functions": {
+    "title": "Logical functions",
+    "markdown_path": "markdown\\docs\\logical-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/degrees": {
+    "title": "Degrees",
+    "markdown_path": "markdown\\docs\\degrees.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/develop-plugins-for-sigma": {
+    "title": "Develop plugins for Sigma",
+    "markdown_path": "markdown\\docs\\develop-plugins-for-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/passthrough-functions": {
+    "title": "Passthrough functions",
+    "markdown_path": "markdown\\docs\\passthrough-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/pi": {
+    "title": "Pi",
+    "markdown_path": "markdown\\docs\\pi.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-refresh-options": {
+    "title": "Manage workbook refresh options",
+    "markdown_path": "markdown\\docs\\workbook-refresh-options.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/bitor": {
+    "title": "BitOr",
+    "markdown_path": "markdown\\docs\\bitor.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/usage-overview": {
+    "title": "Usage overview",
+    "markdown_path": "markdown\\docs\\usage-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-a-control-element": {
+    "title": "Create and manage a control element",
+    "markdown_path": "markdown\\docs\\create-and-manage-a-control-element.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/design-workbook-layouts": {
+    "title": "Design workbook layouts",
+    "markdown_path": "markdown\\docs\\design-workbook-layouts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/date": {
+    "title": "Date",
+    "markdown_path": "markdown\\docs\\date.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/copy-and-paste-workbook-pages": {
+    "title": "Copy workbook pages",
+    "markdown_path": "markdown\\docs\\copy-and-paste-workbook-pages.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/replace": {
+    "title": "Replace",
+    "markdown_path": "markdown\\docs\\replace.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/copy-and-paste-elements": {
+    "title": "Copy and paste workbook elements",
+    "markdown_path": "markdown\\docs\\copy-and-paste-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/apply-data-validation-to-input-table-columns": {
+    "title": "Apply data validation to input table columns",
+    "markdown_path": "markdown\\docs\\apply-data-validation-to-input-table-columns.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arrayexcept": {
+    "title": "ArrayExcept",
+    "markdown_path": "markdown\\docs\\arrayexcept.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/download-export-and-upload-limitations": {
+    "title": "Download and export limitations",
+    "markdown_path": "markdown\\docs\\download-export-and-upload-limitations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/number": {
+    "title": "Number",
+    "markdown_path": "markdown\\docs\\number.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/upload-csv-data": {
+    "title": "Upload CSV data",
+    "markdown_path": "markdown\\docs\\upload-csv-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-if-else-control-flow-in-an-action-sequence": {
+    "title": "Build if/else control flow in an action sequence (Beta)",
+    "markdown_path": "markdown\\docs\\build-if-else-control-flow-in-an-action-sequence.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/currentuserattributetext": {
+    "title": "CurrentUserAttributeText",
+    "markdown_path": "markdown\\docs\\currentuserattributetext.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/enable-or-disable-csv-upload": {
+    "title": "Enable or disable CSV upload",
+    "markdown_path": "markdown\\docs\\enable-or-disable-csv-upload.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-materializations": {
+    "title": "Manage materializations",
+    "markdown_path": "markdown\\docs\\manage-materializations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-filters": {
+    "title": "Dataset filters",
+    "markdown_path": "markdown\\docs\\dataset-filters.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-send-notifications-and-export-data": {
+    "title": "Create actions that send notifications and export data",
+    "markdown_path": "markdown\\docs\\create-actions-that-send-notifications-and-export-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-custom-context-menu-actions": {
+    "title": "Create custom context menu actions",
+    "markdown_path": "markdown\\docs\\create-custom-context-menu-actions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/datefromunix": {
+    "title": "DateFromUnix",
+    "markdown_path": "markdown\\docs\\datefromunix.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/div": {
+    "title": "Div",
+    "markdown_path": "markdown\\docs\\div.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-teams": {
+    "title": "Create and manage teams",
+    "markdown_path": "markdown\\docs\\manage-teams.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/window-functions": {
+    "title": "Window functions",
+    "markdown_path": "markdown\\docs\\window-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sigma-basics": {
+    "title": "Sigma basics",
+    "markdown_path": "markdown\\docs\\sigma-basics.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/count": {
+    "title": "Count",
+    "markdown_path": "markdown\\docs\\count.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rowavg": {
+    "title": "RowAvg",
+    "markdown_path": "markdown\\docs\\rowavg.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/bitand": {
+    "title": "BitAnd",
+    "markdown_path": "markdown\\docs\\bitand.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/mid": {
+    "title": "Mid",
+    "markdown_path": "markdown\\docs\\mid.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/test-an-embed-url-in-the-embed-sandbox": {
+    "title": "Test an embed URL in the embed sandbox",
+    "markdown_path": "markdown\\docs\\test-an-embed-url-in-the-embed-sandbox.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/set-a-query-id-cache-duration": {
+    "title": "Set a query ID cache duration",
+    "markdown_path": "markdown\\docs\\set-a-query-id-cache-duration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lesson-three-grouped-tables-and-pivot-tables": {
+    "title": "Lesson three: Grouped tables and pivot tables",
+    "markdown_path": "markdown\\docs\\lesson-three-grouped-tables-and-pivot-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/write-custom-sql": {
+    "title": "Write custom SQL",
+    "markdown_path": "markdown\\docs\\write-custom-sql.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-team-members": {
+    "title": "Manage team members",
+    "markdown_path": "markdown\\docs\\manage-team-members.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/movingavg": {
+    "title": "MovingAvg",
+    "markdown_path": "markdown\\docs\\movingavg.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-element-types": {
+    "title": "Intro to Element Types",
+    "markdown_path": "markdown\\docs\\intro-to-element-types.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-annotated-images-in-comments": {
+    "title": "Manage annotated image ability and storage period",
+    "markdown_path": "markdown\\docs\\manage-annotated-images-in-comments.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-containers-to-organize-workbook-layouts": {
+    "title": "Use containers to organize workbook layouts",
+    "markdown_path": "markdown\\docs\\use-containers-to-organize-workbook-layouts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/json": {
+    "title": "Json",
+    "markdown_path": "markdown\\docs\\json.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/area": {
+    "title": "Area",
+    "markdown_path": "markdown\\docs\\area.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lesson-five-controls-and-actions": {
+    "title": "Lesson five: Controls and actions",
+    "markdown_path": "markdown\\docs\\lesson-five-controls-and-actions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/button-elements": {
+    "title": "Button elements",
+    "markdown_path": "markdown\\docs\\button-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/join-data-in-workbooks": {
+    "title": "Join data in workbooks",
+    "markdown_path": "markdown\\docs\\join-data-in-workbooks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/regexpreplace": {
+    "title": "RegexpReplace",
+    "markdown_path": "markdown\\docs\\regexpreplace.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/set-up-inactivity-timeouts": {
+    "title": "Set up inactivity timeouts",
+    "markdown_path": "markdown\\docs\\set-up-inactivity-timeouts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-an-embed-api-with-json-web-tokens": {
+    "title": "Create an embed API with JSON Web Tokens",
+    "markdown_path": "markdown\\docs\\create-an-embed-api-with-json-web-tokens.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/currenttimezone": {
+    "title": "CurrentTimezone",
+    "markdown_path": "markdown\\docs\\currenttimezone.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/cumulativesum": {
+    "title": "CumulativeSum",
+    "markdown_path": "markdown\\docs\\cumulativesum.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-a-usage-dashboard-for-ask-sigma": {
+    "title": "Configure a usage dashboard for Ask Sigma",
+    "markdown_path": "markdown\\docs\\configure-a-usage-dashboard-for-ask-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/repeat": {
+    "title": "Repeat",
+    "markdown_path": "markdown\\docs\\repeat.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/zn": {
+    "title": "Zn",
+    "markdown_path": "markdown\\docs\\zn.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/basic-explore-vs-full-explore": {
+    "title": "Basic explore vs. Full explore",
+    "markdown_path": "markdown\\docs\\basic-explore-vs-full-explore.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/rounddown": {
+    "title": "RoundDown",
+    "markdown_path": "markdown\\docs\\rounddown.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/countif": {
+    "title": "CountIf",
+    "markdown_path": "markdown\\docs\\countif.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/share-a-workbook": {
+    "title": "Share a workbook or data model",
+    "markdown_path": "markdown\\docs\\share-a-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/now": {
+    "title": "Now",
+    "markdown_path": "markdown\\docs\\now.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/audit-log-events-and-metadata": {
+    "title": "Audit log events and metadata",
+    "markdown_path": "markdown\\docs\\audit-log-events-and-metadata.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-modeling-tutorial": {
+    "title": "Tutorial: Intro to data models",
+    "markdown_path": "markdown\\docs\\data-modeling-tutorial.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/respond-to-account-upgrade-requests": {
+    "title": "Respond to account upgrade requests",
+    "markdown_path": "markdown\\docs\\respond-to-account-upgrade-requests.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/substring": {
+    "title": "Substring",
+    "markdown_path": "markdown\\docs\\substring.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-or-edit-input-table-data": {
+    "title": "Add or edit input table data",
+    "markdown_path": "markdown\\docs\\add-or-edit-input-table-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/regressionr2": {
+    "title": "RegressionR2",
+    "markdown_path": "markdown\\docs\\regressionr2.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/len": {
+    "title": "Len",
+    "markdown_path": "markdown\\docs\\len.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/trim": {
+    "title": "Trim",
+    "markdown_path": "markdown\\docs\\trim.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/view-underlying-data": {
+    "title": "View underlying data",
+    "markdown_path": "markdown\\docs\\view-underlying-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/nominal": {
+    "title": "Nominal",
+    "markdown_path": "markdown\\docs\\nominal.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/get-started-with-workbook-templates": {
+    "title": "Get started with workbook templates",
+    "markdown_path": "markdown\\docs\\get-started-with-workbook-templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-custom-page-headers-to-a-workbook": {
+    "title": "Add custom page headers to a workbook (Beta)",
+    "markdown_path": "markdown\\docs\\add-custom-page-headers-to-a-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/exp": {
+    "title": "Exp",
+    "markdown_path": "markdown\\docs\\exp.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/operators-overview": {
+    "title": "Operators overview",
+    "markdown_path": "markdown\\docs\\operators-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/schedule-materialization-for-a-version-tagged-data-model": {
+    "title": "Schedule materialization for a version-tagged data model",
+    "markdown_path": "markdown\\docs\\schedule-materialization-for-a-version-tagged-data-model.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-microsoft-teams": {
+    "title": "Export to Microsoft Teams",
+    "markdown_path": "markdown\\docs\\export-to-microsoft-teams.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/trunc": {
+    "title": "Trunc",
+    "markdown_path": "markdown\\docs\\trunc.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-related-columns-in-a-workbook": {
+    "title": "Use related columns in a workbook or data model",
+    "markdown_path": "markdown\\docs\\use-related-columns-in-a-workbook.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/view-and-manage-document-badges": {
+    "title": "View and manage document badges",
+    "markdown_path": "markdown\\docs\\view-and-manage-document-badges.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/special-characters-for-url-parameters": {
+    "title": "URL encoding reference for parameters",
+    "markdown_path": "markdown\\docs\\special-characters-for-url-parameters.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sha256": {
+    "title": "SHA256",
+    "markdown_path": "markdown\\docs\\sha256.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-oauth": {
+    "title": "Configure OAuth",
+    "markdown_path": "markdown\\docs\\configure-oauth.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intersects": {
+    "title": "Intersects",
+    "markdown_path": "markdown\\docs\\intersects.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lesson-one-basic-organization-and-navigation": {
+    "title": "Lesson one: Basic organization and navigation",
+    "markdown_path": "markdown\\docs\\lesson-one-basic-organization-and-navigation.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/regexpextract": {
+    "title": "RegexpExtract",
+    "markdown_path": "markdown\\docs\\regexpextract.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/centroid": {
+    "title": "Centroid",
+    "markdown_path": "markdown\\docs\\centroid.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/python-method-reference": {
+    "title": "Python method reference (Beta)",
+    "markdown_path": "markdown\\docs\\python-method-reference.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/maps": {
+    "title": "Maps",
+    "markdown_path": "markdown\\docs\\maps.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/lower": {
+    "title": "Lower",
+    "markdown_path": "markdown\\docs\\lower.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/nper": {
+    "title": "NPer",
+    "markdown_path": "markdown\\docs\\nper.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sumif": {
+    "title": "SumIf",
+    "markdown_path": "markdown\\docs\\sumif.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/isnotnull": {
+    "title": "IsNotNull",
+    "markdown_path": "markdown\\docs\\isnotnull.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sum": {
+    "title": "Sum",
+    "markdown_path": "markdown\\docs\\sum.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/xnpv": {
+    "title": "XNPV",
+    "markdown_path": "markdown\\docs\\xnpv.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-warehouse-ai-model-integration": {
+    "title": "Configure warehouse AI model integration",
+    "markdown_path": "markdown\\docs\\configure-warehouse-ai-model-integration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-lifecycle-explore-draft-and-publish": {
+    "title": "Workbook lifecycle: explore, draft, and publish",
+    "markdown_path": "markdown\\docs\\workbook-lifecycle-explore-draft-and-publish.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-google-sheets": {
+    "title": "Export to Google Sheets",
+    "markdown_path": "markdown\\docs\\export-to-google-sheets.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/restrict-export-recipients": {
+    "title": "Manage export frequency and authentication settings",
+    "markdown_path": "markdown\\docs\\restrict-export-recipients.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/binrange": {
+    "title": "BinRange",
+    "markdown_path": "markdown\\docs\\binrange.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-as-email-burst": {
+    "title": "Export as email burst",
+    "markdown_path": "markdown\\docs\\export-as-email-burst.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/folder-and-document-permissions": {
+    "title": "Folder and document permissions",
+    "markdown_path": "markdown\\docs\\folder-and-document-permissions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sigma-support": {
+    "title": "Sigma support",
+    "markdown_path": "markdown\\docs\\sigma-support.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/minute": {
+    "title": "Minute",
+    "markdown_path": "markdown\\docs\\minute.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-authentication": {
+    "title": "Manage authentication",
+    "markdown_path": "markdown\\docs\\manage-authentication.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-modes-overview": {
+    "title": "Workbook modes overview",
+    "markdown_path": "markdown\\docs\\workbook-modes-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/join-types": {
+    "title": "Join types",
+    "markdown_path": "markdown\\docs\\join-types.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/datepart": {
+    "title": "DatePart",
+    "markdown_path": "markdown\\docs\\datepart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/get-around-in-sigma": {
+    "title": "Get around in Sigma",
+    "markdown_path": "markdown\\docs\\get-around-in-sigma.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-organization-locale": {
+    "title": "Manage organization locale",
+    "markdown_path": "markdown\\docs\\manage-organization-locale.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/working-with-pivot-tables": {
+    "title": "Working with pivot tables",
+    "markdown_path": "markdown\\docs\\working-with-pivot-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/custom-functions": {
+    "title": "Create reusable custom functions",
+    "markdown_path": "markdown\\docs\\custom-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arrayagg": {
+    "title": "ArrayAgg",
+    "markdown_path": "markdown\\docs\\arrayagg.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-organization-schedules": {
+    "title": "Manage organization schedules",
+    "markdown_path": "markdown\\docs\\manage-organization-schedules.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/schedule-materialization-for-a-dataset": {
+    "title": "Schedule materialization for a dataset",
+    "markdown_path": "markdown\\docs\\schedule-materialization-for-a-dataset.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/make-an-action-conditional": {
+    "title": "Define an action condition",
+    "markdown_path": "markdown\\docs\\make-an-action-conditional.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-access-to-a-secure-embed": {
+    "title": "Manage access to a secure embed",
+    "markdown_path": "markdown\\docs\\manage-access-to-a-secure-embed.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/percentilecont": {
+    "title": "PercentileCont",
+    "markdown_path": "markdown\\docs\\percentilecont.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-iframes-for-embeds": {
+    "title": "Manage iframes for embeds",
+    "markdown_path": "markdown\\docs\\manage-iframes-for-embeds.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-audit-log-data-to-cloud-storage": {
+    "title": "Export audit log data to cloud storage",
+    "markdown_path": "markdown\\docs\\export-audit-log-data-to-cloud-storage.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/license-and-account-type-overview": {
+    "title": "Account type and license overview",
+    "markdown_path": "markdown\\docs\\license-and-account-type-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ln": {
+    "title": "Ln",
+    "markdown_path": "markdown\\docs\\ln.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/arrayslice": {
+    "title": "ArraySlice",
+    "markdown_path": "markdown\\docs\\arrayslice.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/schedule-exports-using-conditions": {
+    "title": "Schedule a conditional export or alert",
+    "markdown_path": "markdown\\docs\\schedule-exports-using-conditions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/send-and-schedule-exports-from-workbooks": {
+    "title": "Send or schedule workbook exports",
+    "markdown_path": "markdown\\docs\\send-and-schedule-exports-from-workbooks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/countdistinctif": {
+    "title": "CountDistinctIf",
+    "markdown_path": "markdown\\docs\\countdistinctif.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/integration-for-slack": {
+    "title": "Manage Slack integration",
+    "markdown_path": "markdown\\docs\\integration-for-slack.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/introduction-to-the-dataset-worksheet": {
+    "title": "Introduction to the Dataset Worksheet",
+    "markdown_path": "markdown\\docs\\introduction-to-the-dataset-worksheet.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sparkline": {
+    "title": "Sparkline (Beta)",
+    "markdown_path": "markdown\\docs\\sparkline.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sigma-templates": {
+    "title": "Get started with workbook templates",
+    "markdown_path": "markdown\\docs\\sigma-templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/maximize-or-minimize-a-data-element": {
+    "title": "View underlying data",
+    "markdown_path": "markdown\\docs\\maximize-or-minimize-a-data-element.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-element-background": {
+    "title": "Customize element background and styles",
+    "markdown_path": "markdown\\docs\\customize-element-background.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/visualization-data-labels": {
+    "title": "Display chart data labels",
+    "markdown_path": "markdown\\docs\\visualization-data-labels.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/user-account-types": {
+    "title": "Create and manage account types",
+    "markdown_path": "markdown\\docs\\user-account-types.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-data-elements": {
+    "title": "Create a data element",
+    "markdown_path": "markdown\\docs\\intro-to-data-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-modeling-with-datasets": {
+    "title": "Datasets",
+    "markdown_path": "markdown\\docs\\data-modeling-with-datasets.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-a-workbook-to-cloud-storage": {
+    "title": "Export to cloud storage",
+    "markdown_path": "markdown\\docs\\export-a-workbook-to-cloud-storage.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-parameters": {
+    "title": "Create and manage dataset parameters",
+    "markdown_path": "markdown\\docs\\dataset-parameters.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-an-audit-logs-storage-integration": {
+    "title": "Manage an audit logs storage integration",
+    "markdown_path": "markdown\\docs\\create-an-audit-logs-storage-integration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-multi-select-columns-on-input-tables": {
+    "title": "Configure single-select or multi-select columns on input tables (Beta)",
+    "markdown_path": "markdown\\docs\\configure-multi-select-columns-on-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/edit-existing-input-table-columns": {
+    "title": "Add or edit input table data",
+    "markdown_path": "markdown\\docs\\edit-existing-input-table-columns.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/generate-a-secure-embed-path": {
+    "title": "Generate a secure embed path",
+    "markdown_path": "markdown\\docs\\generate-a-secure-embed-path.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/transpose-a-table-beta": {
+    "title": "Transpose a table",
+    "markdown_path": "markdown\\docs\\transpose-a-table-beta.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-data-governance-options-in-input-tables": {
+    "title": "Configure data governance options for input tables",
+    "markdown_path": "markdown\\docs\\configure-data-governance-options-in-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/azure-sql-database": {
+    "title": "Connect to Azure SQL Database",
+    "markdown_path": "markdown\\docs\\azure-sql-database.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/write-code": {
+    "title": "Write and run Python code in Sigma (Beta)",
+    "markdown_path": "markdown\\docs\\write-code.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sigma-api": {
+    "title": "About the Sigma REST API",
+    "markdown_path": "markdown\\docs\\sigma-api.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-logic-and-interactivity": {
+    "title": "Intro to actions",
+    "markdown_path": "markdown\\docs\\add-logic-and-interactivity.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/export-to-google-sheets-or-drive": {
+    "title": "Export to Google Drive",
+    "markdown_path": "markdown\\docs\\export-to-google-sheets-or-drive.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/apply-control-values-to-scheduled-exports": {
+    "title": "Configure additional options for exports",
+    "markdown_path": "markdown\\docs\\apply-control-values-to-scheduled-exports.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/table-and-pivot-table-pdf-export-formatting-legacy-layouts": {
+    "title": "Format PDF exports (legacy layouts)",
+    "markdown_path": "markdown\\docs\\table-and-pivot-table-pdf-export-formatting-legacy-layouts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-exports": {
+    "title": "Configure additional options for exports",
+    "markdown_path": "markdown\\docs\\manage-exports.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/visualization-reference-marks": {
+    "title": "Display chart reference marks",
+    "markdown_path": "markdown\\docs\\visualization-reference-marks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-permissions": {
+    "title": "Data access overview",
+    "markdown_path": "markdown\\docs\\data-permissions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-actions-that-download-and-export-data": {
+    "title": "Create actions that send notifications and export data",
+    "markdown_path": "markdown\\docs\\create-actions-that-download-and-export-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-a-chart": {
+    "title": "Create and format trellis charts",
+    "markdown_path": "markdown\\docs\\customize-a-chart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/text-geography": {
+    "title": "Text",
+    "markdown_path": "markdown\\docs\\text-geography.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/organization-settings": {
+    "title": "Configure AI features for your organization",
+    "markdown_path": "markdown\\docs\\organization-settings.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/json-geography": {
+    "title": "Json",
+    "markdown_path": "markdown\\docs\\json-geography.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-configure-tabbed-containers-beta": {
+    "title": "Use tabbed containers to organize workbook content",
+    "markdown_path": "markdown\\docs\\create-and-configure-tabbed-containers-beta.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/text-1": {
+    "title": "Text",
+    "markdown_path": "markdown\\docs\\text-1.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/databricks": {
+    "title": "Connect to Databricks",
+    "markdown_path": "markdown\\docs\\databricks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-table-style": {
+    "title": "Format and customize a table",
+    "markdown_path": "markdown\\docs\\customize-table-style.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/customize-chart-mark-tooltip-fields-deprecate": {
+    "title": "Customize chart mark tooltip fields",
+    "markdown_path": "markdown\\docs\\customize-chart-mark-tooltip-fields-deprecate.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-example-templates": {
+    "title": "Create workbooks from templates",
+    "markdown_path": "markdown\\docs\\workbook-example-templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-bookmarks": {
+    "title": "Create and share saved views",
+    "markdown_path": "markdown\\docs\\create-and-manage-bookmarks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/compose-elements-on-a-page": {
+    "title": "Design workbook layouts",
+    "markdown_path": "markdown\\docs\\compose-elements-on-a-page.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-scatter-chart": {
+    "title": "Build a scatter plot",
+    "markdown_path": "markdown\\docs\\build-a-scatter-chart.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/design-layouts": {
+    "title": "Intro to layout elements",
+    "markdown_path": "markdown\\docs\\design-layouts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/date-functions-overview": {
+    "title": "Date functions",
+    "markdown_path": "markdown\\docs\\date-functions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/system-functions-overview": {
+    "title": "System functions",
+    "markdown_path": "markdown\\docs\\system-functions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/enable-csv-upload": {
+    "title": "Enable or disable CSV upload",
+    "markdown_path": "markdown\\docs\\enable-csv-upload.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/beta-features": {
+    "title": "Sigma product releases",
+    "markdown_path": "markdown\\docs\\beta-features.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/dataset-row-level-security": {
+    "title": "Set up row-level security",
+    "markdown_path": "markdown\\docs\\dataset-row-level-security.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/public-embedding": {
+    "title": "Create and manage a public embed",
+    "markdown_path": "markdown\\docs\\public-embedding.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/modeling-best-practices": {
+    "title": "Dataset best practices",
+    "markdown_path": "markdown\\docs\\modeling-best-practices.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-models": {
+    "title": "Review and manage your data catalog",
+    "markdown_path": "markdown\\docs\\create-models.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-models": {
+    "title": "Create and manage data models",
+    "markdown_path": "markdown\\docs\\data-models.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/send-slack-notifications": {
+    "title": "Export to Slack",
+    "markdown_path": "markdown\\docs\\send-slack-notifications.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/send-a-workbook-export-to-email-recipients": {
+    "title": "Export to email",
+    "markdown_path": "markdown\\docs\\send-a-workbook-export-to-email-recipients.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/type-functions-overview": {
+    "title": "Type functions",
+    "markdown_path": "markdown\\docs\\type-functions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-user-attributes-on-a-snowflake-connection": {
+    "title": "Dynamically assign roles used by a connection",
+    "markdown_path": "markdown\\docs\\configure-user-attributes-on-a-snowflake-connection.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/advanced-data-security-in-embeds": {
+    "title": "Restrict access to data in embedded content",
+    "markdown_path": "markdown\\docs\\advanced-data-security-in-embeds.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/functions": {
+    "title": "Function index",
+    "markdown_path": "markdown\\docs\\functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/license-and-account-type-overview-2024": {
+    "title": "Account type and license overview (Lite/Essential/Pro)",
+    "markdown_path": "markdown\\docs\\license-and-account-type-overview-2024.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sigma-administration": {
+    "title": "Administer Sigma",
+    "markdown_path": "markdown\\docs\\sigma-administration.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/secure-embedding-with-signed-urls": {
+    "title": "Secure embedding with signed URLs",
+    "markdown_path": "markdown\\docs\\secure-embedding-with-signed-urls.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-your-schedules": {
+    "title": "Manage scheduled exports",
+    "markdown_path": "markdown\\docs\\manage-your-schedules.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/version-tagging": {
+    "title": "Add version tags to workbooks and data models",
+    "markdown_path": "markdown\\docs\\version-tagging.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/edit-warehouse-data-from-sigma-deprecated": {
+    "title": "Edit Warehouse Data from Sigma (Deprecated)",
+    "markdown_path": "markdown\\docs\\edit-warehouse-data-from-sigma-deprecated.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/sql-server": {
+    "title": "Connect to SQL Server 2022 and Azure SQL Managed Instance",
+    "markdown_path": "markdown\\docs\\sql-server.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/metrics": {
+    "title": "Use metrics in a workbook",
+    "markdown_path": "markdown\\docs\\metrics.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/secure-embed-error-code-reference": {
+    "title": "Secure embed error code reference",
+    "markdown_path": "markdown\\docs\\secure-embed-error-code-reference.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/scheduled-exports-dashboard": {
+    "title": "Usage overview",
+    "markdown_path": "markdown\\docs\\scheduled-exports-dashboard.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/people": {
+    "title": "Invite new users to your organization",
+    "markdown_path": "markdown\\docs\\people.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/document-activity-dashboard": {
+    "title": "Usage overview",
+    "markdown_path": "markdown\\docs\\document-activity-dashboard.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/filter-data": {
+    "title": "Dynamically filter and modify data in Sigma",
+    "markdown_path": "markdown\\docs\\filter-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/invite-people-to-your-organization": {
+    "title": "Invite new users to your organization",
+    "markdown_path": "markdown\\docs\\invite-people-to-your-organization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/collaborate-in-workbooks": {
+    "title": "Use comments in workbooks",
+    "markdown_path": "markdown\\docs\\collaborate-in-workbooks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-security": {
+    "title": "Set up row-level security",
+    "markdown_path": "markdown\\docs\\data-security.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-configure-tabbed-containers": {
+    "title": "Use tabbed containers to organize workbook content",
+    "markdown_path": "markdown\\docs\\create-and-configure-tabbed-containers.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/text-functions-overview": {
+    "title": "Text functions",
+    "markdown_path": "markdown\\docs\\text-functions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-account-types-2024": {
+    "title": "Create and manage account types (Lite/Essential/Pro)",
+    "markdown_path": "markdown\\docs\\create-and-manage-account-types-2024.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/organize-workbook-layouts-with-containers": {
+    "title": "Use containers to organize workbook layouts",
+    "markdown_path": "markdown\\docs\\organize-workbook-layouts-with-containers.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-workbook-actions": {
+    "title": "Create and manage action sequences",
+    "markdown_path": "markdown\\docs\\configure-workbook-actions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-a-button-element": {
+    "title": "Button elements",
+    "markdown_path": "markdown\\docs\\create-a-button-element.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-customize-popovers": {
+    "title": "Use popovers to simplify a workbook interface",
+    "markdown_path": "markdown\\docs\\create-and-customize-popovers.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/datetime": {
+    "title": "DateTime",
+    "markdown_path": "markdown\\docs\\datetime.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/json-1": {
+    "title": "Json",
+    "markdown_path": "markdown\\docs\\json-1.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/aggregate-functions-overview": {
+    "title": "Aggregate functions",
+    "markdown_path": "markdown\\docs\\aggregate-functions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/redshift": {
+    "title": "Connect to Redshift",
+    "markdown_path": "markdown\\docs\\redshift.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/work-with-controls": {
+    "title": "Reference control values as parameters",
+    "markdown_path": "markdown\\docs\\work-with-controls.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/oauth-with-snowflake": {
+    "title": "Configure a Sigma OAuth application",
+    "markdown_path": "markdown\\docs\\oauth-with-snowflake.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-input-tables": {
+    "title": "Create new input tables",
+    "markdown_path": "markdown\\docs\\create-and-manage-input-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-and-manage-workbook-layouts": {
+    "title": "Design workbook layouts",
+    "markdown_path": "markdown\\docs\\create-and-manage-workbook-layouts.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/tables": {
+    "title": "Create and manage tables",
+    "markdown_path": "markdown\\docs\\tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/account-branding-settings": {
+    "title": "Set up custom homepages",
+    "markdown_path": "markdown\\docs\\account-branding-settings.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/geography-functions-overview": {
+    "title": "Geography functions",
+    "markdown_path": "markdown\\docs\\geography-functions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/manage-assets": {
+    "title": "Review warehouse view details",
+    "markdown_path": "markdown\\docs\\manage-assets.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-url-parameters-to-a-secure-embed": {
+    "title": "Add URL parameters to a secure embed",
+    "markdown_path": "markdown\\docs\\add-url-parameters-to-a-secure-embed.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/connections": {
+    "title": "Set up write access",
+    "markdown_path": "markdown\\docs\\connections.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ndv": {
+    "title": "CountDistinct",
+    "markdown_path": "markdown\\docs\\ndv.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-collaboration-with-live-edit": {
+    "title": "Collaborate with Live Edit in workbooks",
+    "markdown_path": "markdown\\docs\\workbook-collaboration-with-live-edit.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/schedule-exports-to-google-sheets-or-drive": {
+    "title": "Export to Google Drive",
+    "markdown_path": "markdown\\docs\\schedule-exports-to-google-sheets-or-drive.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/passthrough-functions-overview": {
+    "title": "Passthrough functions",
+    "markdown_path": "markdown\\docs\\passthrough-functions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/build-a-geography-map-beta": {
+    "title": "Build a geography map",
+    "markdown_path": "markdown\\docs\\build-a-geography-map-beta.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-interactions": {
+    "title": "Drill down into data",
+    "markdown_path": "markdown\\docs\\data-interactions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-elements": {
+    "title": "Workbook settings overview",
+    "markdown_path": "markdown\\docs\\workbook-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/add-or-collect-data": {
+    "title": "Intro to input tables",
+    "markdown_path": "markdown\\docs\\add-or-collect-data.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/intro-to-data-models": {
+    "title": "Get started with data modeling",
+    "markdown_path": "markdown\\docs\\intro-to-data-models.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/ui-elements": {
+    "title": "Intro to UI elements",
+    "markdown_path": "markdown\\docs\\ui-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/audit-and-usage": {
+    "title": "Usage overview",
+    "markdown_path": "markdown\\docs\\audit-and-usage.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/use-a-workbook-in-explore-mode": {
+    "title": "Create and interact with custom views",
+    "markdown_path": "markdown\\docs\\use-a-workbook-in-explore-mode.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/visualization-drill-paths-drill-anywhere": {
+    "title": "Drill down into data",
+    "markdown_path": "markdown\\docs\\visualization-drill-paths-drill-anywhere.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-oauth-with-snowflake": {
+    "title": "Configure a Sigma OAuth application",
+    "markdown_path": "markdown\\docs\\configure-oauth-with-snowflake.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/view-and-access-data-models": {
+    "title": "Navigate data models",
+    "markdown_path": "markdown\\docs\\view-and-access-data-models.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/pivot-tables": {
+    "title": "Working with pivot tables",
+    "markdown_path": "markdown\\docs\\pivot-tables.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-management": {
+    "title": "View workbook and data model data lineage",
+    "markdown_path": "markdown\\docs\\workbook-management.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-actions-in-sequences": {
+    "title": "Create and manage action sequences",
+    "markdown_path": "markdown\\docs\\configure-actions-in-sequences.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/additional-embedding-configurations": {
+    "title": "Implement inbound and outbound events in embeds",
+    "markdown_path": "markdown\\docs\\additional-embedding-configurations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/data-elements": {
+    "title": "Create a data element",
+    "markdown_path": "markdown\\docs\\data-elements.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-performance": {
+    "title": "About materialization",
+    "markdown_path": "markdown\\docs\\workbook-performance.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/audit-log": {
+    "title": "Enable or disable audit logging",
+    "markdown_path": "markdown\\docs\\audit-log.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/regexreplace": {
+    "title": "RegexpReplace",
+    "markdown_path": "markdown\\docs\\regexreplace.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/copy-a-page-within-and-between-workbooks": {
+    "title": "Copy workbook pages",
+    "markdown_path": "markdown\\docs\\copy-a-page-within-and-between-workbooks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/using-multiple-identity-providers-for-your-sigma-organization": {
+    "title": "Using multiple identity providers for your Sigma organization (Beta)",
+    "markdown_path": "markdown\\docs\\using-multiple-identity-providers-for-your-sigma-organization.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/download-a-workbook-page": {
+    "title": "Download workbook data",
+    "markdown_path": "markdown\\docs\\download-a-workbook-page.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/download-or-export-a-data-element": {
+    "title": "Download workbook data",
+    "markdown_path": "markdown\\docs\\download-or-export-a-data-element.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/transformations": {
+    "title": "Define custom datetime formats",
+    "markdown_path": "markdown\\docs\\transformations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/interact-with-workbooks": {
+    "title": "Create and interact with custom views",
+    "markdown_path": "markdown\\docs\\interact-with-workbooks.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/third-party-integrations": {
+    "title": "Manage dbt Integration",
+    "markdown_path": "markdown\\docs\\third-party-integrations.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/templates": {
+    "title": "Create workbooks from templates",
+    "markdown_path": "markdown\\docs\\templates.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/workbook-embedding-an-overview": {
+    "title": "Intro to embedded analytics",
+    "markdown_path": "markdown\\docs\\workbook-embedding-an-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/logical-functions-overview": {
+    "title": "Logical functions",
+    "markdown_path": "markdown\\docs\\logical-functions-overview.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/query": {
+    "title": "Write custom SQL",
+    "markdown_path": "markdown\\docs\\query.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/popular-functions": {
+    "title": "Function index",
+    "markdown_path": "markdown\\docs\\popular-functions.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/create-a-team-for-embed-users": {
+    "title": "Manage access to a secure embed",
+    "markdown_path": "markdown\\docs\\create-a-team-for-embed-users.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/configure-warehouse-data-editing-deprecated": {
+    "title": "Configure Warehouse Data Editing (Deprecated)",
+    "markdown_path": "markdown\\docs\\configure-warehouse-data-editing-deprecated.md",
+    "section_count": 0
+  },
+  "https://help.sigmacomputing.com/docs/example-embed-api-and-url": {
+    "title": "Example embed API and URL",
+    "markdown_path": "markdown\\docs\\example-embed-api-and-url.md",
+    "section_count": 0
+  }
+}

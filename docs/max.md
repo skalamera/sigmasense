@@ -1,0 +1,47 @@
+# Max
+
+# Max
+
+The **Max** function finds the maximum value for a column summary or group.
+
+## Syntax
+
+```
+Max(field)
+```
+
+Function arguments:
+
+* **field** (required) - The column to be searched. Can be of type Number, Date, and String.
+
+The maximum for strings is determined by sort order, which is affected by your database settings. Sort order is most often blank spaces > special characters > numbers > uppercase letters > lowercase letters.
+For numbers, preceding and trailing zeroes often have no affect on sort order.
+
+## Example
+
+```
+Max([Invoice Date])
+```
+
+* Finds the greatest Invoice Date, which is the most recent invoice date.
+
+```
+Max([Name])
+```
+
+* Finds the name that is alphabetically last.
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [CumulativeMax](/docs/cumulativemax)
+* [Min](/docs/min)
+* [MovingMax](/docs/movingmax)
+* [Greatest](/docs/greatest)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

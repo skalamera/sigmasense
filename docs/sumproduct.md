@@ -1,0 +1,35 @@
+# SumProduct
+
+# SumProduct
+
+The **SumProduct** function returns the sum of the product of values in a series of columns.
+
+## Syntax
+
+`SumProduct(column, ...)`
+
+Function arguments:
+
+* **column** (required) - A column to be multiplied and summed. You can enter in any number of columns to be multiplied together.
+
+## Example
+
+```
+SumProduct([Quantity], [Unit Price])
+```
+
+* Finds the sum of the product of the columns `[Quantity] * [Unit Price]`
+* This function is an alias for `Sum([Quantity] * [Unit Price])`
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Sum](/docs/sum)
+* [SumIf](/docs/sumif)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

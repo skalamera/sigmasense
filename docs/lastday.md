@@ -1,0 +1,45 @@
+# LastDay
+
+# LastDay
+
+The **LastDay** function evaluates a specified date component (i.e., year, quarter, month, or week) in a date value and returns the last date and time in that component as a timestamp.
+
+## Syntax
+
+`LastDay(date, precision)`
+
+Function arguments:
+
+* **date** (required) - the date or column containing date values from which the date component is extracted
+* **precision** (required) - the date component (i.e., year, quarter, month, or week) evaluated for its last date and time
+
+## Examples
+
+```
+LastDay([Invoice Date], "month")
+```
+
+Extracts the month component from the date in the *Invoice Date* column and returns the last date and time for that month.
+
+![](https://files.readme.io/e6bae8e-1.png)
+
+```
+LastDay(Date("2020-01-10 10:34:29"), "year")
+```
+
+Extracts the year component from the specified date (January 10, 2020) and returns the last date and time for that year.
+
+![](https://files.readme.io/2ec753f-2.png)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [DatePart](/docs/datepart)
+* [Quickstart: Common date functions and use cases](https://quickstarts.sigmacomputing.com/guide/common_date_functions_and_use_cases)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Examples](#examples)

@@ -1,0 +1,44 @@
+# AggText
+
+# AggText
+
+The **AggText** function sends a request to execute an aggregate warehouse function that returns a text data type. This function is the aggregation version of [CallText](/docs/calltext).
+
+## Syntax
+
+```
+AggText(function name, arguments...)
+```
+
+Function arguments:
+
+* **function name** (required) - an aggregate warehouse function to execute
+* **arguments** (required) - one or more arguments to pass to the warehouse function
+
+> 📘
+>
+> All arguments must meet the warehouse function’s input requirements. Unsupported arguments result in an invalid formula.
+
+## Example
+
+A table contains a *Customer Name* column that generates each region's top five customers based on purchase activity. Using the **AggText** function, you can execute Snowflake's [MIN](https://docs.snowflake.com/en/sql-reference/functions/min) function in a higher grouped level of the table to return the first customer according to alphabetical order.
+
+```
+AggText("MIN", [Customer Name])
+```
+
+Returns the first *Customer Name* value (based on alphabetical order) for each region in the *Store Region* column.
+
+![](https://files.readme.io/b5d45b8-2.png)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [CallText](/docs/calltext)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

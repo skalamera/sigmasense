@@ -1,0 +1,51 @@
+# Mod
+
+# Mod
+
+The **Mod** (modulus) function computes the remainder of a division operation, dividing the first value by the second value.
+
+## Syntax
+
+```
+Mod(x, y)
+```
+
+Function arguments:
+
+**x** (Required) The dividend; the value that is divided.
+
+**y** (Required) The divisor; the value that is divided by. Non-zero.
+
+## Examples
+
+```
+Mod(19,5)=4
+```
+
+19 divided by 5 has the modulus of 4.
+
+```
+Div(2,3)=0
+```
+
+2 divided by 3 has the modulus of 2.
+
+```
+Mod([X],[Y])
+```
+
+The **Mod** function returns the following values for the X and Y columns:
+
+![](https://files.readme.io/a362e36-999.png)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Div](/docs/div)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Examples](#examples)

@@ -1,0 +1,36 @@
+# Second
+
+# Second
+
+The **Second** function returns an integer representing the second component of a specified date and time.
+
+## Syntax
+
+`Second(date)`
+
+Function arguments:
+
+* **date** (required) - the date or column containing date values from which the second component is extracted
+
+## Example
+
+`Second(Date("2007-08-14 07:11:05"))`
+
+Extracts the second component from the specified date and time and returns `5` to represent five seconds into the eleventh minute of the hour.
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [DatePart](/docs/datepart)
+* [Minute](/docs/minute)
+* [Month](/docs/month)
+* [Quarter](/docs/quarter)
+* [Year](/docs/year)
+* [Quickstart: Common date functions and use cases](https://quickstarts.sigmacomputing.com/guide/common_date_functions_and_use_cases)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

@@ -1,0 +1,233 @@
+# Build a gauge chart
+
+# Build a gauge chart
+
+Gauge charts are typically used to display a measurable value against a radial scale. Create gauge charts to evaluate growth, assess performance, or track progress toward a goal.
+
+This document details basic gauge chart requirements and introduces key properties and format options to help you enhance your workbook charts.
+
+![](https://files.readme.io/fda7059-1.png)
+
+> 📘
+>
+> Example use cases:
+>
+> * **IT analytics**: Measure implementation completion (as a percentage) to track a project’s progress.
+> * **Manufacturing analytics**: Track machine uptime (as a percentage) to monitor equipment performance.
+> * **Customer experience (CX) analytics**: Measure the net promoter score (NPS) for individual stores or customer service teams to gain insight into customer engagement and loyalty.
+
+## User requirements
+
+The ability to create gauge charts and other charts requires the following:
+
+* You must be assigned an [account type](/docs/user-account-types) with the **Edit Workbook** and/or **Explore Workbook** permission enabled.
+* You must be the workbook owner or be granted **Can explore** or **Can edit** [workbook permission](/docs/folder-and-document-permissions).
+
+> 🚧
+>
+> ### If you're granted **Can explore** access to the workbook, you can create and modify chart properties and formatting in **Explore** mode, but you cannot publish your changes.
+
+## Workbook prerequisite
+
+Before you can build a gauge chart, you must [add a new chart element and select a data source](/docs/create-a-data-element).
+
+At the core of every chart is an underlying data table (derived from the data source) that supplies the information visualized by the chart. As you build a gauge chart, Sigma automatically aggregates the underlying data to calculate values for the chart properties. You can [view the underlying data table](/docs/maximize-or-minimize-a-data-element) while configuring the chart to see the unaggregated data.
+
+## Basic gauge chart requirements
+
+To display a gauge chart, configure the following properties in the ![](https://sigma-docs-screenshots.s3.us-west-2.amazonaws.com/Icons/element-properties.svg) **Element properties** panel:
+
+* **Chart**: chart type displayed in the workbook
+* **Value**: source column that defines the measurable value
+* **Minimum**: source column that defines the minimum gauge value
+* **Maximum**: source column that defines the maximum gauge value
+
+In a gauge chart, a single value is measured on a radial scale. The minimum and maximum values determine the range of the gauge and provide reference points for assessing the measurable value.
+
+### Select the chart type
+
+After you [add a new chart](/docs/create-a-data-element) to a workbook, select the chart type:
+
+* In the **Chart** property, click the dropdown field and select **Gauge** from the list. ![](https://files.readme.io/f8b6c27-2.png)
+
+> 📘
+>
+> ### You can also use this dropdown field to convert an existing chart to a different type. Sigma retains all property and format configurations shared by the initial and new type. Unshared properties and formatting are not saved or restored if you further convert the chart.
+
+### Define the measurable value
+
+Configure a source column to define the measurable value.
+
+1. In the **Value** property, click ![](https://sigma-docs-screenshots.s3.us-west-2.amazonaws.com/Icons/button-add.svg) **Add calculation** and select an option from the menu:
+
+   * To aggregate the values of an existing column, search or scroll the **Aggregate column** list and select the preferred column name.
+   * To apply a custom formula or constant value, select **New column** and enter the formula or value in the toolbar.
+   * To count the number of rows in the data source, select **Row count**.
+   > 📘
+   >
+   > ### You can also select or replace an existing column by dragging and dropping a column name from the **Columns** list to the **Value** property.
+
+   ![](https://files.readme.io/04ff93f-3.png)
+2. [optional] Control how the data is calculated and displayed in the chart:
+
+   1. Hover over the source column name, then click the caret (![](https://sigma-docs-screenshots.s3.us-west-2.amazonaws.com/Icons/caret.svg)) to open the column menu.
+   2. Hover over any of the following items, then select the preferred option:
+      * **Set aggregate** - Calculate the value based on the selected aggregation method.
+      * **Transform** - Convert the column to the selected [data value type](/docs/data-types-and-formats).
+      * **Format** - Display the data label in the selected format.
+
+   ![](https://files.readme.io/614dfc9-4.png)
+
+   > 📘
+   >
+   > ### You can also use the toolbar to change the aggregation method (using the formula) and data label format.
+
+### Define the gauge range
+
+Configure a source column to define the minimum and maximum gauge values.
+
+1. In the **Minimum** property, click ![](https://sigma-docs-screenshots.s3.us-west-2.amazonaws.com/Icons/button-add.svg) **Add calculation** and select an option from the menu:
+
+   * To aggregate the values of an existing column, search or scroll the **Aggregate column** list and select the preferred column name.
+   * To apply a custom formula or constant value, select **New column** and enter the formula or value in the toolbar.
+   * To count the number of rows in the data source, select **Row count**.
+   > 📘
+   >
+   > ### You can also select or replace an existing column by dragging and dropping a column name from the **Columns** list to the **Minimum** property.
+
+   ![](https://files.readme.io/e1a3940-5.png)
+
+   > 📘
+   >
+   > ### If you don't configure a value in the **Minimum** property, the value defaults to zero.
+2. In the **Maximum** property, click ![](https://sigma-docs-screenshots.s3.us-west-2.amazonaws.com/Icons/button-add.svg) **Add calculation** and select an option from the menu:
+
+   * To aggregate the values of an existing column, search or scroll the **Aggregate column** list and select the preferred column name.
+   * To apply a custom formula or constant value, select **New column** and enter the formula or value in the toolbar.
+   * To count the number of rows in the data source, select **Row count**.
+   > 📘
+   >
+   > ### You can also select or replace an existing column by dragging and dropping a column name from the Columns list to the Maximum property.
+
+   ![](https://files.readme.io/8d82137-6.png)
+3. [optional] Sigma auto-generates source column names and chart titles to reflect the visualized data, but you can customize these fields as needed:
+
+   * To rename a source column, double-click its name in the **Value**, **Minimum**, or **Maximum** property, then enter a new name. Changes to the **Value** property are reflected in the default chart title.
+   * To edit the chart title, double-click the title in the chart, then enter a new title.
+   > 📘
+   >
+   > ### Sigma auto-generates the default chart title only. Once the title is customized, it no longer reflects changes to the **Value** property.
+
+   ![](https://files.readme.io/3db1dc7-gauge_define-gauge-range_step-3.png)
+
+## Advanced gauge chart properties and formatting
+
+Sigma features various properties and format options that give you the flexibility to build detailed gauge charts.
+
+The following sections introduce configurations that can enhance your charts and help you deliver specific insights with meaningful and actionable information.
+
+### Configure target value
+
+Configure a target value in the ![](https://sigma-docs-screenshots.s3.us-west-2.amazonaws.com/Icons/element-properties.svg) **Element properties** > **Target** property to mark a goal or benchmark on the gauge. The **Target** property can be configured in the same way as the **Value**, **Minimum**, and **Maximum** properties.
+
+![](https://files.readme.io/8c7263d-8.png)
+
+### Configure chart colors
+
+Configure chart colors in the ![](https://files.readme.io/3ecaa20-element-properties.svg) **Element properties** > **Color** property.
+
+![](https://files.readme.io/5eba8c3-gauge_color.png)
+
+|  |  |  |
+| --- | --- | --- |
+| Single color | Enter a hex code or select a color for the gauge fill (the area that extends from the minimum value to the measurable value).  *See [Conditional Formatting](#h_01GQ1BAWY2T97HMEMAEKRSW4N2) for information about adding formatting rules.* |  |
+| By scale | Select a color scale to apply to the gauge. |  |
+
+### Add conditional formatting
+
+When you select **Single color** in the ![](https://files.readme.io/19524bd-element-properties.svg) **Element properties** > **Color** property, you can configure formatting rules ( **+Add rule**) that determine the gauge fill or gauge scale color according to value- or percentage-based conditions.
+
+By default, conditional formatting applies to the gauge fill color (representing the measurable value), but you can apply rules to the gauge scale by selecting the **Show color on gauge** checkbox. This option hides the gauge fill and conditionally formats segments of the gauge based on values or percentages along the radial scale.
+
+Example:
+
+![](https://files.readme.io/3105cda-9.png)
+
+|  |  |
+| --- | --- |
+| Gauge fill (checkbox cleared) | Gauge *(checkbox selected)* |
+|  |  |
+
+> 📘
+>
+> ### When the conditions of multiple rules are met, Sigma applies the formatting rules in order of precedence, from top to bottom. Drag and drop rule blocks to reorder them as needed.
+
+When you create a value-based rule, Sigma evaluates the measure or gauge scale value. If the value meets the conditions defined in the **Formatting rule** fields, the color selected in the **Style** field applies to the gauge fill or gauge scale.
+
+![](https://files.readme.io/5a2fd2a-10.png)
+
+Example:
+
+![](https://files.readme.io/ef07c2c-11.png)
+
+|  |  |
+| --- | --- |
+| Condition not met | Condition met |
+|  |  |
+
+When you create a percentage-based rule, Sigma evaluates the measure or gauge scale value relative (as a percentage) to the maximum or target value, depending on the rule configuration. If the percentage meets the conditions defined in the **Formatting rules** field, the color selected in the **Style** field applies to the gauge fill or gauge scale.
+
+![](https://files.readme.io/28dd9bf-12.png)
+
+Example:
+
+![](https://files.readme.io/5f072ee-13.png)
+
+|  |  |
+| --- | --- |
+| Condition not met | Condition met |
+|  |  |
+
+### Customize gauge marks
+
+Customize gauge marks (gauge, needle, and target) in the ![](https://sigma-docs-screenshots.s3.us-west-2.amazonaws.com/Icons/element-format.svg) **Element format** > **Gauge marks** section.
+
+![](https://files.readme.io/6262e83-14.png)
+
+|  |  |  |
+| --- | --- | --- |
+| Gauge color | Enter a hex color code or select a standard color for the unfilled area of the gauge (extending from the end of the gauge fill to the maximum value).  *[Conditional formatting rules](#h_01GQ1BAWY2T97HMEMAEKRSW4N2) take precedence over the **Gauge color** selection.* |  |
+| Show needle | Show or hide the needle that points to the measurable value in the gauge. |  |
+| Needle color | Enter a hex color code or select a standard color for the gauge needle. |  |
+| Show gauge fill | Show or hide the gauge fill color.  *This field is unavailable when [conditional formatting rules](#h_01GQ1BAWY2T97HMEMAEKRSW4N2) exist and the **Show color on gauge** checkbox is selected (because the selection already hides the gauge fill).* |  |
+| Target color | Enter a hex color code or select a standard color for the target mark.  *This field is unavailable if a [target value](#h_01GQ6784X3ANGDWHZQAGSH0X38) is not configured in the **Target** property.* |  |
+
+## All gauge chart format options
+
+* [Background](/docs/customize-element-background)
+* [Title](/docs/customize-element-title)
+* [Data labels](/docs/visualization-data-labels)
+* [Gauge marks](/docs/build-a-gauge-chart)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Intro to charts](/docs/intro-to-visualizations)
+* [Create a data element](/docs/create-a-data-element)
+
+* [Table of Contents](#)
+* + [User requirements](#user-requirements)
+  + [Workbook prerequisite](#workbook-prerequisite)
+  + [Basic gauge chart requirements](#basic-gauge-chart-requirements)
+  + - [Select the chart type](#select-the-chart-type)
+    - [Define the measurable value](#define-the-measurable-value)
+    - [Define the gauge range](#define-the-gauge-range)
+  + [Advanced gauge chart properties and formatting](#advanced-gauge-chart-properties-and-formatting)
+  + - [Configure target value](#configure-target-value)
+    - [Configure chart colors](#configure-chart-colors)
+    - [Add conditional formatting](#add-conditional-formatting)
+    - [Customize gauge marks](#customize-gauge-marks)
+  + [All gauge chart format options](#all-gauge-chart-format-options)

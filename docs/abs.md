@@ -1,0 +1,37 @@
+# Abs
+
+# Abs
+
+The Abs function returns the absolute, non-negative value of a number.
+
+## Syntax
+
+```
+Abs(number)
+```
+
+Function argument:
+
+* **number** (required) - The number or column of numbers that is being evaluated.
+
+## Example
+
+A *Distance Covered* column that contains negative values can be corrected to hold only positive values.
+
+```
+Abs([Distance Covered])
+```
+
+With the **Abs** function, all the values in the *Distance Covered* column are converted to positive values.
+
+![](https://files.readme.io/3e2e0af-jjjjj.png)
+
+Updated 3 days ago
+
+---
+
+[Math functions](/docs/math-functions)[Acos](/docs/acos)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

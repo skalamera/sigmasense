@@ -1,0 +1,64 @@
+# Array
+
+# Array
+
+The **Array** function returns an array containing specified values.
+
+> 📘
+>
+> This function isn't compatible with all data platform connections. To check if your connection supports it, see [Supported data platforms and feature compatibility](/docs/region-warehouse-and-feature-support#supported-data-platforms-and-feature-compatibility).
+
+## Syntax
+
+```
+Array([values])
+```
+
+Function arguments:
+
+|  |  |
+| --- | --- |
+| **values** | [optional] Comma-separated values used to construct the array.  Values can include a variety of input, including integers, strings, boolean values, columns, and results of function calls. |
+
+> 📘
+>
+> ### The **Array** function supports indexing using a zero-based indexing system. To retrieve a value in the array based on its position, append the index in square brackets directly following the function call. For a demonstration, see [Example 3](#example-3).
+
+## Examples
+
+### Example 1
+
+```
+Array(1, 2, 3)
+```
+
+Returns the array `[1,2,3]` as [variant data](/docs/data-types-and-formats#variant).
+
+### Example 2
+
+```
+Array(1, "Hello", Today())
+```
+
+Returns the array `[1,"Hello","2024-03-14 00:00:00.000 Z"]` when the current date is March 14, 2024.
+
+### Example 3
+
+```
+Array("red", "orange", "yellow")[1]
+```
+
+Because the array has an index range from 0 to 2, `[1]` instructs Sigma to access the value in the second position, which returns `"orange"`.
+
+Updated 3 days ago
+
+---
+
+[Array functions](/docs/array-functions)[ArrayConcat](/docs/arrayconcat)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Examples](#examples)
+  + - [Example 1](#example-1)
+    - [Example 2](#example-2)
+    - [Example 3](#example-3)

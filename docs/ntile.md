@@ -1,0 +1,48 @@
+# Ntile
+
+# Ntile
+
+The **Ntile** function assigns the rows of a column to a given number of ranks. An approximately equal number of rows is given each **Ntile** rank. The ranks are assigned in order.
+
+## Syntax
+
+```
+Ntile(ranks, [Column], direction)
+```
+
+Function Arguments:
+
+* **ranks** (required) - The number of ranks to assign. Must be an integer greater than 0.
+* **[Column]** (required) The column used to rank the table.
+* **direction** (optional) The direction to sort the input column. Enter “asc” to sort ascending and “desc” to sort descending. The default sort is ascending.
+
+## Example
+
+```
+Ntile(4, [Population 2010])
+```
+
+A table contains the population of different counties in 2010.  The table is grouped by a `[State]` column. Using the **Ntile** function, an equal number of rows will be ranked 1, 2, 3 and 4 according to the size of the `[Population 2010]` column. Since the direction is not specified it will default to ascending. Therefore, the lowest quartile of values in `[Population 2010]` will be ranked 1 and the highest quartile of values will be ranked 4.
+
+![](https://files.readme.io/bd3a7b0-1.png)
+
+```
+Ntile(4, [Population 2010], "desc")
+```
+
+Here, the direction argument is `"desc"`, so the rank will be assigned descending. Therefore, the highest quartile of values in `[Population 2010]` are ranked 1 and the lowest quartile of values are ranked 4.
+
+![](https://files.readme.io/3a3e800-2.png)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Rank](/docs/rank)
+* [BinRange](/docs/binrange)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

@@ -1,0 +1,35 @@
+# Len
+
+# Len
+
+Returns the number of characters in a string, including spaces.
+
+## Usage
+
+`Len(string)`
+
+**text** (required) A string or column where each row contains a string.
+
+## Example
+
+`Len("")`
+
+* Returns 0
+
+`Len("Jane ")`
+
+* Returns 5
+
+`Len("東京大学")`
+
+* Returns 4
+
+Updated 3 days ago
+
+---
+
+[Left](/docs/left)[Like](/docs/like)
+
+* [Table of Contents](#)
+* + [Usage](#usage)
+  + [Example](#example)

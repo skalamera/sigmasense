@@ -1,0 +1,44 @@
+# DateTime
+
+# DateTime
+
+Converts a text or date value into an ISO date time.
+
+## Usage
+
+`DateTime(input)`
+
+**input** (required) The input to be returned as a date time. Input can be text or date. If providing a text input, it can represent a date or a date and time; acceptable formats for a text input include "yyyy-mm-dd", "mm/dd/yyyy", or "yyyy-mm-dd hh:mm:ss" (use double quotes).
+
+## Examples
+
+```
+DateTime("03/07/2023")
+```
+
+* Returns the ISO date time 2023-03-07 00:00:00.
+
+```
+DateTime("2023-03-07 15:27:45")
+```
+
+* Returns the ISO date time 2023-03-07 15:27:45.
+
+```
+DateTime([Text Date])
+```
+
+* Returns the corresponding ISO date time for each value in the `[Text Date]` column.
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Date](/docs/date)
+* [Quickstart: Common date functions and use cases](https://quickstarts.sigmacomputing.com/guide/common_date_functions_and_use_cases)
+
+* [Table of Contents](#)
+* + [Usage](#usage)
+  + [Examples](#examples)

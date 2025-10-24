@@ -1,0 +1,41 @@
+# CumulativeMax
+
+# CumulativeMax
+
+The **CumulativeMax** function calculates the maximum of a column up to and including the current row value.
+
+## Syntax
+
+```
+CumulativeMax([Column])
+```
+
+Function Arguments:
+
+* **[Column]** (required) - The column of numbers to evaluate the cumulative max.
+
+Cumulative functions depend on the order of the given column. If you change the sorting you will change the result.
+
+## Example
+
+```
+CumulativeMax([Monthly Revenue])
+```
+
+A table contains the monthly revenue for a store. The CumulativeMax function can be used to find the maximum monthly revenue up to and including the current month.
+
+![](https://files.readme.io/a74bbce-3.png)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [CumulativeMin](/docs/cumulativemin)
+* [Max](/docs/max)
+* [MovingMax](/docs/movingmax)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

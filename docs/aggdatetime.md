@@ -1,0 +1,44 @@
+# AggDatetime
+
+# AggDatetime
+
+The **AggDatetime** function sends a request to execute an aggregate warehouse function that returns a date data type. This function is the aggregate version of [CallDatetime](/docs/calldatetime).
+
+## Syntax
+
+```
+AggDatetime(function name, arguments...)
+```
+
+Function arguments:
+
+* **function name** (required) - an aggregate warehouse function to execute
+* **arguments** (required) - one or more arguments to pass to the warehouse function
+
+> 📘
+>
+> ### All arguments must meet the warehouse function’s input requirements. Unsupported arguments result in an invalid formula.
+
+## Example
+
+A table contains a *Date* column that returns the timestamp of all order transactions for each customer. Using the **AggDatetime** function, you can execute Snowflake's [MAX](https://docs.snowflake.com/en/sql-reference/functions/max) function in a higher grouped level of the table to return the latest timestamp of a customer's shopping history.
+
+```
+AggDatetime("MAX", [Date])
+```
+
+Returns the most recent date time value from the *Date* column for each customer identified in the *Cust Key* column.
+
+![](https://files.readme.io/7a9b593-1.png)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [CallDatetime](/docs/calldatetime)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

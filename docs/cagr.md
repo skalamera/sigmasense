@@ -1,0 +1,61 @@
+# CAGR
+
+# CAGR
+
+The **CAGR** function returns the compound annual growth rate of an investment.
+
+**CAGR** is part of the set of financial functions that Sigma supports.
+
+## Syntax
+
+```
+CAGR(n, bv, ev)
+```
+
+The **CAGR** function syntax has the following arguments:
+
+n
+:   Required
+:   The number of periods of the investment
+
+bv
+:   Required
+:   The beginning value
+
+ev
+:   Required
+:   The end value
+
+The general formula for the **CAGR** function is:  
+`(ev / bv )^(1 / n) - 1`.
+
+## Examples
+
+```
+CAGR(4, 3000, 48000)
+```
+
+An investment that grew from $3,000 to $48,000 in 4 periods has a return rate of 100% for each period.
+
+```
+CAGR(10, [Beginning Investment], [Ending Investment])
+```
+
+Calculate the annual rate of return of an investment over a period of 10 years, as a percentage:
+
+![](https://files.readme.io/82adf7a-mceclip2.png)
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [PV](/docs/pv)
+* [FV](/docs/fv)
+* [Pmt](/docs/pmt)
+* [NPer](/docs/nper)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Examples](#examples)

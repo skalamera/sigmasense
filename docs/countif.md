@@ -1,0 +1,59 @@
+# CountIf
+
+# CountIf
+
+The **Count** function returns the number of rows in a table or group for which all given conditions are true.
+
+## Syntax
+
+`CountIf(condition 1, condition 2+...)`
+
+Function arguments:
+
+* **condition 1** (required) The condition to test. If the condition is True, then the row will be counted.  
+  You can use [operators](/docs/operators-overview) in conditions.
+* **condition 2+** (optional) Additional conditions to test. If multiple conditions are given, they must all be True in order to be counted.
+
+## Example
+
+For example, to count rows where the value in the *Age* column is greater than 65:
+
+```
+CountIf([Age] > 65)
+```
+
+To count rows where the value in the *Age* column is greater than 65 and the *State* column has a value of Ohio:
+
+```
+CountIf([Age] > 65, [State] = ”Ohio”)
+```
+
+To count rows where the value for the *Submitted* column is a Boolean `True`, you can use either of the following syntax:
+
+```
+CountIf([Submitted] = True)
+```
+
+```
+CountIf([Submitted])
+```
+
+You can also combine this function with functions that return Boolean output, such as [IsNotNull](/docs/isnotnull):
+
+```
+CountIf(IsNotNull([Order Number]))
+```
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Count](/docs/count)
+* [CountDistinct](/docs/countdistinct)
+* [CountDistinctIf](/docs/countdistinctif)
+
+* [Table of Contents](#)
+* + [Syntax](#syntax)
+  + [Example](#example)

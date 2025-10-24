@@ -1,0 +1,46 @@
+# Least
+
+# Least
+
+Returns the smallest value amongst the inputs.
+
+## Usage
+
+```
+Least(input, [input 2+])
+```
+
+**input** (required) The data or column of data to be evaluated. Input can be numbers, dates, or strings.
+
+**input 2+** (optional) Additional inputs to compare. All additional inputs must match the type of the first input.
+
+> 📘
+>
+> ### To compare a column of dates against a specific date, wrap the input in the Date() function.
+
+## Example
+
+```
+Least([Date], Date("2018-04-12"))
+```
+
+* Returns the value in [Date] if the date is before April 12, 2018, otherwise returns April 12, 2018. When used with date data types, returns the date that occurs the furthest back.
+
+```
+Least([Profit 2016], [Profit 2017], [Profit 2018])
+```
+
+* Returns the profit numbers for the year that was least profitable.
+
+Updated 3 days ago
+
+---
+
+Related resources
+
+* [Min](/docs/min)
+* [Greatest](/docs/greatest)
+
+* [Table of Contents](#)
+* + [Usage](#usage)
+  + [Example](#example)
