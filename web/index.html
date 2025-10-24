@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sigma Docs Chat</title>
+    <link rel="stylesheet" href="/styles.css" />
+</head>
+
+<body>
+    <div id="app">
+        <header class="topbar">
+            <div class="brand">Sigma Docs Chat</div>
+        </header>
+        <main class="chat">
+            <div id="messages" class="messages"></div>
+            <form id="form" class="composer">
+                <input id="file" type="file" accept="image/*" multiple style="display:none" />
+                <button id="attach" type="button" title="Attach images">📎</button>
+                <textarea id="input" placeholder="Ask how to use Sigma..." rows="1"></textarea>
+                <button id="send" type="submit">Send</button>
+            </form>
+        </main>
+    </div>
+    <script src="/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,133 @@
+:root {
+    --bg: #0b0f14;
+    --panel: #11161c;
+    --text: #e7edf3;
+    --muted: #a7b0ba;
+    --accent: #3ea6ff;
+    --bubble: #0f1621;
+    --user: #1b2838
+}
+
+* {
+    box-sizing: border-box
+}
+
+html,
+body,
+#app {
+    height: 100%
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 14px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif
+}
+
+.topbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--panel);
+    border-bottom: 1px solid #1e2630;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center
+}
+
+.brand {
+    font-weight: 600
+}
+
+.chat {
+    height: calc(100% - 49px);
+    display: flex;
+    flex-direction: column
+}
+
+.messages {
+    flex: 1;
+    overflow: auto;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px
+}
+
+.bubble {
+    max-width: 900px;
+    border: 1px solid #1e2630;
+    border-radius: 10px;
+    padding: 12px 14px;
+    background: var(--bubble);
+    white-space: pre-wrap
+}
+
+.bubble.user {
+    align-self: flex-end;
+    background: var(--user)
+}
+
+.bubble.assistant {
+    align-self: flex-start
+}
+
+.composer {
+    display: flex;
+    gap: 8px;
+    padding: 12px;
+    border-top: 1px solid #1e2630;
+    background: var(--panel)
+}
+
+#input {
+    flex: 1;
+    resize: none;
+    background: #0a1118;
+    color: var(--text);
+    border: 1px solid #1e2630;
+    border-radius: 8px;
+    padding: 10px;
+    outline: none
+}
+
+#send {
+    background: var(--accent);
+    color: #001b2a;
+    border: none;
+    border-radius: 8px;
+    padding: 0 14px;
+    font-weight: 600;
+    cursor: pointer
+}
+
+#attach {
+    background: #0a1118;
+    color: var(--text);
+    border: 1px solid #1e2630;
+    border-radius: 8px;
+    padding: 0 10px;
+    cursor: pointer
+}
+
+.meta {
+    color: var(--muted);
+    font-size: 12px;
+    margin-top: 6px
+}
+
+.sources {
+    margin-top: 6px;
+    color: var(--muted)
+}
+
+.sources a {
+    color: var(--accent)
+}
+
+@media (max-width:640px) {
+    .bubble {
+        max-width: 100%
+    }
+}
